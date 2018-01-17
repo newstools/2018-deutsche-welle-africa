@@ -1,0 +1,9 @@
+Ronaldinho, who won the 2002 World Cup with Brazil and the 2006 World Player of the Year award, is retiring from football, his brother and agent Roberto Assis said Tuesday. "Ronnie's professional career is over," Assis told The Associated Press news agency. "He wants to be a football ambassador, do charity, and work with his friends in music from now on." The announcement brings a definitive end to the former Brazilian and Barcelona midfielder's celebrated career. The 37-year-old last played in a competitive match in 2015. Assis suggested his brother may play in some farewell matches, including one with the Brazil national team. "We're going to do something pretty big, something cool, after the World Cup in Russia, probably in August," he said. Read more: Footballers Ronaldinho and Giggs enthrall Pakistani fans Brazil to Barcelona After starting his career at the Brazilian club Gremio in 1998, Ronaldinho went on to play for seven other clubs, including Paris Saint-Germain, Barcelona, AC Milan, Flamengo, Atletico Mineiro, Queretaro and Fluminense. Some of his greatest performances were at Barcelona between 2003 and 2008, where he won the La Liga, FIFA World Player of the Year award and the Ballon d'Or in 2005, and the Champions League in 2006. Ronaldinho played 101 times for Brazil, scoring 35 goals and helping his country win its fifth title at the 2002 World Cup. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2jOfG amp/nm (Reuters, AP)
