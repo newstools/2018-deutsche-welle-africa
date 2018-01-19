@@ -1,0 +1,17 @@
+Politicians in Germany are taking a harder look at loneliness and how it affects the country's large — and growing — elderly population. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/1K6gc For someone over the age of 60, loneliness "increases mortality as much as heavy smoking," Karl Lauterbach, a health expert and Social Democrat (SPD), told the German daily Bild newspaper on Friday. Read more: Berlin sets up holiday hotline for lonely seniors "There has to be someone who is responsible for the topic of loneliness, preferably in the Health Ministry, who can coordinate the fight against loneliness," Lauterbach added. A discussion about loneliness in Germany was prompted by the United Kingdom's recent move to name a "Minister for Loneliness." Marcus Weinberg, a politician with German Chancellor Angela Merkel's Christian Democrats (CDU), said people should be able to talk the issue freely without fearing that they would be seen as weak, reported Bild. Read more: New study aims to improve quality of life for seniors with music Some 20 percent of people over 85-years-old in Germany said they felt lonely, according to a recent study British model is 'exemplary' The president of Diakonie, a social welfare organization run by Germany's Protestant churches, praised the UK's creation of a minister for loneliness post. "The British initiative is exemplary," Ulrich Lilie told the newspapers of the Funke media group on Friday. "Loneliness is a cross-sectional problem in our society and is not discussed enough." Read more: Internet could help isolated seniors out of their loneliness Lilie also noted that poverty and social isolation "are clearly related" and that loneliness can result in political frustration. Loneliness has been linked to increased risk for depression and cardiovascular disease, making it even more difficult to leave the house The Bild report cited a study conducted by the Ruhr University Bochum, which found that 20 percent of people over the age of 85 felt lonely. For those between 45 and 65, over 14 percent said they felt socially isolated. Read more: German organization prepares refugees to care for the elderly The issue "is a vicious spiral" for elderly people who already have health problems since loneliness can increase the likelihood of depression or cardiovascular disease, Maike Luhmann, a psychology professor who headed the study, told Bild. On Wednesday, British Prime Minister Theresa May appointed a "Minister for Loneliness" to focus on providing "practical and emotional support" for the elderly as well as young disabled people. "For far too many people, loneliness is the sad reality of modern life," May said. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/1GsLl rs/sms (AFP, dpa)
