@@ -1,0 +1,9 @@
+Speaking at the headquarters of the International Olympic Committee (IOC) in Lausanne, Switzerland, the body's president, Thomas Bach, confirmed that both Korean teams would march together in the opening ceremony of next month's Winter Olympics in Pyeongchang. He also said 22 North Korean athletes will compete in five disciplines, including a joint women's ice hockey team. The other sports are figure skating, short track speedskating, Alpine skiing and cross-country skiing. "Today is a great moment for the Olympic Movement because the Olympic spirit has brought us all together," Bach, flanked by government officials from both Korean countries, said as part of his opening remarks. He later offered "sincere thanks to the governments of North and South Korea." Read more: — Korean War allies consider further sanctions against North Korea — North Korea to send its national orchestra to South for Winter Olympics Last week, officials from both countries met in the neutral village of Panmunjom to discuss the participation of North Korean athletes in the Olympics, among other topics. It was the first time the two countries had met in two years. North Korea plans to send a delegation of 500 people to the Olympics, which includes 260 cheerleaders and 24 coaches as well as government officials, musicians and journalists. Pyeongchang is 80 kilometers (50 miles) away from South Korea's border with North Korea. The Games will run from February 9-25. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2r2b0 dv/rc (AP,  Reuters)
