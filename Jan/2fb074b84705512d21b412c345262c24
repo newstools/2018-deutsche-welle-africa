@@ -1,0 +1,9 @@
+Russian police involved in a search for illegal weapons on Thursday discovered an unexpected resident in the suspected arms trafficker's basement  — a crocodile. "No incidents involving the reptile occurred during the search," police said in a statement. They said a veterinary service was now looking for new accommodation for the animal, which was found sitting in the dark in a shallow, muddy pool. The local Fontanka news site said the roughly two-meter-long (six-and-a-half-foot-long) crocodile belonged to the suspect, an enthusiast of military re-enactments who also ran a youth club in the building, situated in the suburb of Petergof in St. Petersburg. The man is suspected of illegal arms possession and trafficking. The crocodile may have been feeling the chill Possible violations A neighbor of the man said the reptile had moved in in 2005 and "was little at the time." The Nile crocodile may well have been suffering from cold in its basement abode, with daylight temperatures in St. Petersburg being currently around minus 7 degrees Celsius (19 degrees Fahrenheit), far below what it would be used to in its natural habitat. City prosecutors said on Friday they were looking at whether the man, who was taken into custody, had violated any laws by keeping the animal. Police said that some items resembling ammunition were also found during the search and had been sent for analysis. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2gSj9 tj/jlw (AFP, AP)
