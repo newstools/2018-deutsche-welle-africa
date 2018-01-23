@@ -1,0 +1,9 @@
+Convicted serial killer Niels Högel was charged with 97 further counts of murder in the northern German city of Oldenburg on Monday. The former nurse is already serving jail time for murdering other patients. In court, Niels has admitted to acting "out of boredom" and to impress his colleagues — by giving patients medicine to cause heart failure or circulatory collapse and then trying to revive them. Police investigator Arne Schmidt called the killings "unique in the history of the German republic." Initially convicted of attempted murder in hospitals in Oldenburg and the nearby city of Delmenhorst, Högel's subsequent statements to a psychologist over 30 killings prompted authorities to exhume scores of bodies buried between 1999 and 2005 and test them for the killer's drug cocktails. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2nNu4 Högel was first sentenced in 2008 to seven and a half years for attempted murder, before being handed a life sentence in 2015 over six counts of murder. In the course of the investigation, police found that hospital authorities failed to report the disturbing increase in fatalities when Högel was working. "If the people responsible at the time, particularly at the Oldenburg clinic but also later in Delmenhorst, hadn't hesitated to alert authorities — for example police prosecutors — Högel could have been apprehended sooner," Oldenburg Police Chief Johann Kühme said. Two former physicians in Delmenhorst are also facing charges in connection with patient deaths. es/rt (AFP, dpa)
