@@ -1,0 +1,9 @@
+One German national died in the attack on the Intercontinental Hotel in Kabul, a German foreign ministry spokeswoman said on Monday. The ministry said the victim was a woman, but did not provide other details. There are no indications that other German citizens were among the casualities. Read more: Taliban militants claim responsibility for attack on Kabul hotel At least 22 people lost their lives in the Saturday attack, according to the latest death toll provided by the Afghan Health Ministry. The death toll is likely to rise. The militants specifically targeted foreign citizens, according to a survivor quoted by the news agency AFP. "They were saying kill the foreigners," said a 20-year-old hotel employee who gave his name as Hasibullah. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2rFhP Previously, the Afghan interior ministry had said 19 people were killed, including 14 foreigners. A team of five or six attackers, reportedly dressed in Afghan military uniforms, entered the hotel and set fire to its kitchen. The militants then took up positions on the fourth and fifth floors and went from room to room, gunning down guests. The Taliban claimed responsibility for the assault, which prompted an overnight siege of the six-storey venue. Many of the guests fled by jumping out of windows. The standoff ended with Afghan security forces, backed by Norwegian troops, killing all of the Taliban militants. At least seven Ukrainian citizens were among the dead, with one Greek and one Kazakh national also reported killed. dj/rt (AFP, dpa)
