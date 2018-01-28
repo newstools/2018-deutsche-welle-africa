@@ -1,0 +1,9 @@
+German Chancellor Angela Merkel issued a warning about rising anti-Semitism on Saturday during remarks for International Holocaust Remembrance Day. "Anti-Semitism, racism and the hatred of others," are on the rise as they haven't been in years, Merkel said. "It is inconceivable and shameful that no Jewish institution can exist without police protection, whether it is a school, a kindergarten or a synagogue." Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2rbwO Anti-Semitic-motivated crimes rose to about 1,500 in the last year, Germany's interior ministry has said. The chancellor also reaffirmed her support for creating the post of anti-Semitism commissioner in Germany's new government, as soon as her party is able to finalize a coalition. Kurz: Austria is also to blame In Austria, her counterpart, Sebastian Kurz, highlighted his country's role in the Third Reich. "Austria was one of the perpetrators of and took part in the worst crimes of the Shoah," Kurz wrote, using the Hebrew word for the Holocaust. "There is no place for anti-Semitism, racism and incitement in our society." Kurz, whose conservative ÖVP party rules in a coalition government with the far-right nationalist FPÖ, added that it was important that the Austrian government never forget its historical responsibility for the murder of millions. January 27 is observed as Holocaust Remembrance Day in many countries around the world, and marks the day in 1945 when the Auschwitz-Birkenau concentration and death camps were liberated by the Red Army. es/jlw (AFP, dpa)
