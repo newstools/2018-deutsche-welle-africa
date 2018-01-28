@@ -1,0 +1,9 @@
+New Zealand's military said on Sunday that the crew of its Orion maritime patrol plane sent to scour waters around the Pacific nation of Kiribati had sighted survivors in one of two dinghies normally carried by the ferry Butiraoi. The 17-meter (56-foot) wooden catamaran with 50 people on board was reported missing on January 20. The ferry has failed to arrive from what should have been a two-day, 240-kilometer (149-mile) voyage between Nonouti Island and Betio, the largest township of Kiribati's capital, South Tarawa. Commodore Darryn Webb of New Zealand's Defense Force said the Orion's crew had dropped food, water, and a radio to the seven survivors. Read more: Presiding over a drowning island Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/1HEWc More survivors sought A fishing boat in the area had been diverted to rendezvous with the dinghy and the Orion's crew was continuing its search for other potential survivors, Webb said. Coordination of the search was being done from Fiji, 3,460 kilometers to the southwest of Kiribati. The ferry disappeared in weather described as moderate with some swells. Before leaving Nonouti, the catamaran had reportedly undergone repairs to its propeller shaft after running aground. Kiribati, with a population of about 110,000, is one of the Pacific island nations facing rising ocean levels attributed to climate warming. The remote nation consists of 32 low-lying atolls and one elevated coral island, spread over 3.5 million square kilometers (1.35 million square miles) of ocean. tj, ipj/rc (AFP, dpa, AP)
