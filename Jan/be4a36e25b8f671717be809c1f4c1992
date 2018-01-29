@@ -1,0 +1,9 @@
+Kraftwerk's "3-D The Catalogue" won Best Dance/Electronic Album at the Grammy Awards on Sunday ahead of the main ceremony. It was among dozens of categories awarded before the televised show at New York's Madison Square Garden, Sunday night, local time. The Dusseldorf-based group, known for its robotic-like style since the 1970s, assembled its winning album from retrospective performances given at museums, including New York's Museum of Modern Art. Those recordings were remastered to exclude extraneous crowd noise, unlike traditional live albums. 3-D refers to glasses given to audience members. The multimedia package includes eight CDs and a vinyl record, providing surround-sound versions of Kraftwerk's classic tracks such as "The Robots," Pocket Calculator" and "Trans Europe Express. Kraftwerk co-founder Ralf Hütter Other competitors in the category Best Dance/Electronic Album were Migration from Bonobo, Mura Masa's self-titled album, "A Moment Apart by Odesza, and "What Now" by Sylvan Esso. A Grammy for lifetime achievements went to the German band in 2014. 'Beatles of Electronic Dance Kraftwerk was formed in Dusseldorf in 1970 by Ralf Hütter and Florian Schneider and is credited with influencing music styles such as Electropop, Detroit Techno, and Hip-Hop. In 1974, its title ''Autobahn' broke world-wide into the English-speaking top charts. In 1997, the New York Times described Kraftwerk, already nearly three decades old, as the "Beatles" of Electronic Dance Music. ipj/aw (AFP, dpa, AP) Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2ircK
