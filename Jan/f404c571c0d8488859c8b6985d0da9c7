@@ -1,0 +1,9 @@
+He was one of the greatest fashion designers of the last century: Giovanni Maria Versace, better known as Gianni Versace — or simply Versace. He created gowns for Princess Diana and Sting's wedding tuxedo, among the many other clothes he designed for the rich and famous. With the help of his sister Donatella, Versace made his fashion house into a unique international brand. He led the glamorous life of a pop star, becoming the envy of many around the world. Yet his life ended tragically — in July 1997 he was murdered outside his villa in Miami. Together Gianni and Donatella built a fashion empire Read more: Fashion Icon Versace Admirers around the world began collecting the Italian designer's fashion creations, designs and drawings early on. Versace's very first show in 1978 took place in the Germany city of Lippstadt. Now, to celebrate the 40th anniversary of his fashion label, a retrospective exhibition in the Crown Prince's Palace in Berlin is showing pieces from private collectors around the world. The exhibition's organizational team of international curators has called it the largest exhibition of Versace in the world to date. It also is coinciding with a Versace renaissance: according to German Vogue, the "sheer sexiness" of the famed designer's work is being rediscovered. "Gianni Versace Retrospective" runs from January 30 through April 30, 2018 at the Crown Prince's Palace in Berlin. The exhibition contains hundreds of pieces covering Versace's work in fashion, accessories, furniture, home-deco and photographs. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/18FeL
