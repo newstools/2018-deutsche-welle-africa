@@ -1,0 +1,9 @@
+The term "influencer" has been named Germany's Anglicism of the Year for 2017, joining an ever-growing list of English words that have made their way into German usage. The term, used to describe an individual with significant influence due to their prominence on social media, is increasingly used by German speakers and fills a gap in their native vocabulary for describing this contemporary phenomenon, said linguist and jury head Anatol Stefanowitsch on Tuesday. In second place was "blockchain," the decentralized technology used to create cryptocurrency, while the word "nice" came in at third place due to its popularity among German youth, the jury at Berlin's Free University announced. Arguably the greatest recent 'influencer' on social media has been serial tweeter Donald Trump, who also popularized 2016's Anglicism of the year, 'fake news.' A total of 51 words were put forward for the title, which is announced annually. The word "hatespeech" was also a popular choice, garnering 14 percent of the vote. The Anglicism of the Year 2016 also went to another internet-based phenomenon: "fake news." The term "refugees welcome" won the accolade in 2015 amid widespread protest in Germany against xenophobic and anti-Islamic sentiment. The country took in some 890,000 migrants that year. Read more: 'Refugees Welcome' is Germany's Anglicism of the year Meanwhile, in 2017, a number of Anglicisms continued to enter the official dictionary of the German language, the Duden, including "Emoji," "Darknet" and "Tablet." sb/als (with dpa) Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2hxEd
