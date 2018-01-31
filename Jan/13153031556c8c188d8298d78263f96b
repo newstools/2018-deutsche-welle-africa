@@ -1,0 +1,17 @@
+The number of people registered as unemployed in Germany increased by 185,000 to 2.57 million in January month on month, the Nuremberg-based Federal Employment Agency (BA) reported Wednesday. The official jobless rate now stands at 5.8 percent, up from 5.3 percent in the previous month. BA President Detlef Scheele hastened to add, though, that the latest monthly increase was a lot weaker than in any other January in the past 25 years. "The labor market has seen an energetic start to the new year," Scheele insisted, adding that the slight uptick in unemployment was solely due to seasonal factors, with the construction and other sectors tending to employ fewer people during the winter months. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2mQed Economy booming In seasonally adjusted terms, the number of jobless people dipped by 25,000 month-on-month. In a year-on-year comparison, it even dropped by 207,000, the agency said. BA officials noted the continuously robust labor market in Germany was backed by companies' full order books as the global economy continued to pick up steam. Annual figures for last year had shown that unemployment in Europe's powerhouse hit the lowest level since German reunification in 1990, with an average 2.53 million people looking for jobs. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2qmkC hg/jbh (dpa, Reuters)
