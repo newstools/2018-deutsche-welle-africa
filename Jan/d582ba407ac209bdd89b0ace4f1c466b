@@ -1,0 +1,9 @@
+Over 200 officers took part in a series of pre-dawn raids across Germany on Wednesday as authorities seek to foil a major international migrant trafficking ring. Seven apartments and business premises were searched in the German states of Berlin, Saxony, Bremen and North Rhine-Westphalia, according to federal police spokesman Christian Meinhold. Read more: Closed borders boost people smuggling across Balkans The raids saw two men detained in Berlin, while another man was arrested in the Saxon town of Bad Muskau, located on the border with Poland. The men are reported to be Turkish, Polish and Bulgarian nationals. Meinhold also said that police seized an array of new evidence providing insights into the smuggling ring's organization and structure. Men acted with 'conscious acceptance' of dangers Authorities believe the ring had recently smuggled some 160 illegal migrants into Germany over the Balkan route in the back of a truck. In doing so, the men acted "with a conscious acceptance" endangering migrants' lives, Meinhold said. Transport trucks are an extremely dangerous means of transporting large groups of people. In 2015, during the height of the migrant crisis, police discovered a truck loaded with 71 dead refugees on a motorway in Austria. The smugglers demanded up to €8,000 (9,950€) from each refugee smuggled into Germany. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/1Gzgk dm/kms (AFP, dpa)
