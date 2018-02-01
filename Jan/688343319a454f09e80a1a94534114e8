@@ -1,0 +1,9 @@
+Mexico sold 19 offshore oil and gas blocks in the Gulf of Mexico for $525 million (€423 million) on Wednesday in the country's biggest auction since opening up its oil sector to foreign investment in 2013. British-Dutch giant Royal Dutch Shell won nine blocks — four in a consortium with Qatar Petroleum and two with Mexico's state-owned Petroleos de Mexico (Pemex). Malaysia's PC Carigali won seven blocks — two alone and five as part of a consortium — and Mexican state-owned Pemex won four — two alone and two in consortium. Ten blocks received no bids. The 19 auctioned fields located off the country's northeastern coast contain an estimated 2.8 billion barrels of oil. Mexico had predicted $93 billion worth of investments if all 29 fields were sold and developed and a daily production boost up to 1.94 million barrels by 2032. Read more: Brazil sells rights to offshore oil fields for €1.6 billion Royal Dutch Shell were big winners in the auction Reversing a downward trend Mexican President Enrique Pena Nieto permitted the auction to attract foreign capital and know-how into the country's sluggish oil and gas sector. The decision follows the Pena Nieto administration's controversial 2013 energy reform package that ended Pemex's seven-decade monopoly over the sector. The state-owned giant's crude oil production has fallen every year since 2009 and the International Energy Agency predicts production to fall again in 2018. Read more: BP ups investment in Gulf of Mexico Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2qOml amp/jm (AFP, dpa, Reuters, AP)
