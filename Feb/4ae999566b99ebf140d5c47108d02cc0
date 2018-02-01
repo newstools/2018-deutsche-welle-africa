@@ -1,0 +1,9 @@
+Billionaire Elon Musk on Thursday closed orders for his latest novelty product after selling a total of 20,000 flamethrowers at $500 (€402) a piece. Musk's tagline for the impromptu fundraising scheme had been "Guaranteed to liven up any party." The sale raised $10 million for his high-speed tunnel venture "The Boring Company." The sale of flamethrowers came on the back of a similar fundraising campaign in which Elon Musk shifted 50,000 Boring Company hats. What's next? "When the zombie apocalypse happens, you'll be glad you bought a flamethrower," tweeted the man behind Tesla and SpaceX. "Works against hordes of the undead — or your money back." Musk added each flamethrower would come with something to put out a fire. The latest fundraising plan came at a time when financial analysts and investors in e-carmaker Tesla are wondering if Musk would have to seek billions more in resources as it struggled to meet promises on its Model 3 production. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2mwOT hg/jbh (dpa, Reuters)
