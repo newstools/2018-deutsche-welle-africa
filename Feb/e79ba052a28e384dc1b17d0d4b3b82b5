@@ -1,0 +1,9 @@
+A Brazilian judge on Friday ordered that former President Luiz Inacio Lula da Silva's passport be returned to him. A lower court judge had ordered authorities to seize da Silva's passport hours before he was set to fly to Ethiopia for a United Nations conference on January 26, for fear he would seek asylum abroad. "There is no way to conclude that [da Silva] was planning to flee the country" Judge Bruno Apolinario said in his ruling. The trip "was justified by a previously scheduled professional commitment," he added. Read more: Court upholds President Lula corruption conviction Lula's lawyer, Cristiano Zanin, said Friday's ruling had "corrected" the lower court order that had violated the former president's constitutional right to freedom of movement. Shadow of corruption Da Silva is a leading candidate in polls for the 2018 presidential election in October, but faces legal hurdles to entering the race after a court upheld a corruption conviction against him in late January. He was found guilty of accepting bribes in 2017 and sentenced to 12 years in jail. The left-wing politician, who governed Brazil from 2003 to 2011, has denied the charges and described them as politically motivated. Read more: Two Brazilian presidents accused of running criminal organization Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2rTT4 amp/cmk (AP, AFP)
