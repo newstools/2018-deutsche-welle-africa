@@ -1,0 +1,17 @@
+Spanish authorities have extradited to the US a Russian man suspected of carrying out cybercrimes using bulk spam emails and malicious software, US officials announced Friday. Read more: What is ransomware? Pyotr Levashov, a 37-year-old from St. Petersburg, was due to appear before a federal judge in the US state of Connecticut, where he faces charges of wire and email fraud, hacking, identity theft and conspiracy. Levashov was arrested in April while vacationing with his family in Barcelona. In October, Spain's National Court granted the US extradition request, rejecting a counter-extradition request from Russia. Read more: Criminals hack their way to the top US prosecutors say Levashov ran the sprawling Kelihos botnet — a network involving up to 100,000 infected computers that sent spam emails, harvested users' logins and installed malicious software that intercepted bank account passwords. According to the indictment, the network generated and distributed more than 2,500 spam emails a day and allegedly victimized thousands of people in the US. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2dO2x 'Political' motive to case Levashov has denied the charges and fought the extradition, saying he feared what would happen if he were to be sent to the US. His lawyers in Spain told the court that Levashov previously served in the Russian army and worked for Russian President Vladimir Putin's United Russia party. Levashov was concerned that US investigators would force him to turn over confidential information to US authorities. The Spanish judges eventually rejected these arguments. Levashov could face up to 52 years in prison if he is convicted of the charges at trial. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2nuZw rs/cmk (AP, AFP, Reuters)
