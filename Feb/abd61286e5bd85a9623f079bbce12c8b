@@ -1,0 +1,9 @@
+An Amtrak train traveling in the US state of South Carolina has collided with a CSX freight train on Sunday at around 2:35 am local time (0730 UTC), killing at least two people. More than 70 people have been taken to hospital with injuries. The train, with 139 passengers and eight crew members was traveling from New York to Miami. The injuries ranged from cuts and scratches to broken bones, Lexington County spokesman Harrison Cahill said. The Lexington County Sheriff's Department tweeted that the train had also derailed, as well as confirming that there had been two fatalities. Amtrak in trouble According to authorities, all passengers on board were evacuated from the train. Officials have also said that although 5,000 gallons (19,000 liters) of fuel were spilled due to the crash, there was no danger to the public. The South Carolina Red Cross meanwhile set up a reception site to offer assistance at the local Pine Ridge Middle School. The crash came only days after another Amtrak train carrying Republican lawmakers hit a garbage truck in Virginia, killing one person and injuring six others. In December 2017, three people were killed when an Amtrak passenger train derailed in Washington state, near Tacoma, sending carriages onto a busy road. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2pbaO cl/jlw (Reuters, dpa, AFP)
