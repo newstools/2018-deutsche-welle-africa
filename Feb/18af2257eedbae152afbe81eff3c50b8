@@ -1,0 +1,9 @@
+According to the Indian Ministry of External Affairs, the oil tanker, "Marine Express," went missing off the Benin coast in the Gulf of Guinea on February 1. The tanker is owned by the Anglo Eastern shipping company, which is based in Hong Kong. The company tweeted that its top priority is the safety of the crew. Read more: German company says six kidnapped crewmen taken by pirates freed in Nigeria India's Directorate General of Shipping was in contact with authorities in Nigeria and Benin Sunday in efforts to determine the whereabouts of the tanker and crew. This was confirmed by India's Ministry of External Affairs spokesperson, Raveesh Kumar, who tweeted that a 24-hour hotline had been set up by the Indian embassy in Nigeria to provide information on those missing. Local media reports say it is the second ship to go missing in this area in the last month. The "MT Barret" was hijacked by pirates in January, but the crew, mostly Indians, was released six days later after a ransom was paid, it was reported by the Indian daily the Hindustan Times. Nigerian authorities have requested all vessels to report any sightings of the missing tanker to the International Maritime Bureau's (IMB) Anti-Piracy Reporting Centre in London, as reported by The Indian Express. Read more: China: Oil slick from Iranian tanker triples in size Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2rI1D
