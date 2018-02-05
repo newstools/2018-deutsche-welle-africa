@@ -1,0 +1,9 @@
+European stocks suffered a sharp sell-off in Monday's opening trade on the back of a steep dive in the US on Friday and losses on Asian stock markets Monday. Europe's STOXX 600 shed 1.1 percent in early trading, on track for its sixth straight day of decline. The pan-European index hit a two-month low, giving back all the gains it made in the bullish new year rally. Among major European equity markets, only Spain and Italy were still higher than at the turn of the year, with the UK being the worst performer. DAX retreating All sectors were in the red on Monday morning, but the sell-off hit the highest-valued parts of the market hardest, with tech stock diving 1.6 percent. Travel and leisure stocks were among the worst-performing as shares in carriers Air France, easyJet, IAG and Lufthansa fell. Despite reporting rising profits, Ryanair fell 3.5 percent after the airline struck a cautious tone about fares and potential disruption from pilot unions. Germany's blue-chip DAX 30 shed 1.2 percent to 12,635 points in early trading, with analysts citing the strong euro and higher bond yields as the main two reasons for the renewed drop. The index is now at the lowest level since the end of September 2017. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2nyI4 hg/aos (Reuters, dpa)
