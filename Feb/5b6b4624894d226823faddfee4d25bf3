@@ -1,0 +1,9 @@
+Japanese carmaker Nissan and its Chinese joint venture partner Dongfeng Motor Company announced Monday they would invest $9.5 billion (€7.6 billion) in China to increase annual sales by 1 million vehicles and boost the production of electric cars. The move came as China was rolling out new regulations to limit gas vehicles in a bid to reduce air pollution across the Asian nation. Authorities in Beijing will implement a complex quota system as of 2019, requiring carmakers to produce a minimum number of electric vehicles. They are also looking at plans to completely ban fossil fuel cars at a date that has yet to be decided. Jumping on the bandwagon Nissan's high-end brand, Infinity, will go all-electric in China by 2025, according to the new investment scheme, with the funds to go into several areas, from manufacturing to human resources. The Japanese carmaker sold 1.5 million vehicles in China last year and said it planned to shift 2.6 million units there by 2022. The expansion plan foresees 20 new vehicle models, with 30 percent of total sales to be made up of electric cars and new-energy vehicles. China's upcoming regulations have also spurred many other foreign carmakers to ramp up plans for e-car production. Germany's Volkswagen is establishing a joint venture with state-owned JAC Motors, aiming to get their first electric car to market by next year. US car giant Ford envisages that all its cars available in China will have electric options by 2025. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2qwCs hg/crh (AFP, Reuters)
