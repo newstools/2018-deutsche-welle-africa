@@ -1,0 +1,9 @@
+Popular message board Reddit on Thursday deleted a controversial sub-forum on "deepfake" videos that use controversial face-swapping technology for violating its pornography policy. The move follows similar bans by other popular sites against videos that use community-made software to superimpose the faces of female celebrities into existing pornographic footage. What was Reddit targeting? Read more: Facebook seeks nude pics from users to tackle 'revenge porn' Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/19C45 How did Reddit users react? Views on the ban were mixed, with some supportive and others against. Some users questioned the motives behind the ban, while others speculated about the long-term implications of the technology behind deepfakes: Read more: One-fifth of Australians targeted by 'revenge porn' and image-based abuse Deepfakes already banned elsewhere: Reddit's decision comes in the wake of similar bans on deepfake videos by websites Pornhub.com, Gfycat, Discord and Twitter.
