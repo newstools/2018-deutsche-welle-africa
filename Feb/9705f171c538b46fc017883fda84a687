@@ -1,0 +1,9 @@
+The US Justice Department indicted 36 people on Wednesday in connection with an international identify theft ring. The network known as Infraud reportedly stole $530 million from consumers. Founded in 2010 by Ukranian Svyatoslav Bondarenko, Infraud operated in the form of a message board, with people buying and selling credit card details, US Social Security numbers, birthdays, and passwords from internet users all over the world. The site also offered an account in which users could launder the money they stole. Bondarenko described it as a "comfortable and safe" space to "bring together professional people for who carding and hacking become a lifestyle." The network had the motto "In Fraud We Trust." Read more: Norwegian newspaper reveals Australian police ran child porn site Childs Play for 11 months Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2n7dF International ring According to investigators, the network's 10,900 members targeted around 4.3 million credit cards, debit cards and bank accounts. The Justice Department said that 13 of the 36 people have already been arrested in the US, Australia, France, Italy, the UK, Kosovo and Serbia. Also Bondarenko remains at large, his Russian co-founder Sergey Medvedev has been arrested. "The Department of Justice refuses to allow cybercriminals to hide behind the anonymity of the web while stealing personally identifying information, emptying bank accounts, and wreaking havoc on our nation's digital infrastructure and financial system," said Deputy Assistant Attorney General David Rybicki. es/aw (AP, Reuters)
