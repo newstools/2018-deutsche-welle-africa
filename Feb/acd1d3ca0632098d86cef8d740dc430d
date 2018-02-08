@@ -1,0 +1,9 @@
+Twitter reported Thursday it swung to a net profit of $9.1 million (€7.4 million) in the fourth quarter, up from a loss of $167.1 million in the same period a year earlier and signaling the first ever quarterly profit in the company's history. Revenue rose by 2 percent year on year to $731.6 million, marking the first increase since the fourth quarter of 2016. Twitter had said earlier the breakthrough was possible as it slashed expenses. Still, the company misses Wall Street targets for people using the service, reporting 330 million monthly active users for the quarter, a 4-percent increase from a year earlier, but flat when compared with the previous three months. Couple of changes The tally of users is closely watched by investors as a sign of future ad sales potential. Twitter said in a shareholder letter it had stepped up efforts to reduce spam, automated accounts known as bots and fake accounts. CEO Jack Dorsey added it had doubled the number of characters allowed in each tweet in most languages, from 140 to 280. The firm also struck deals with media companies for live news and entertainment shows to attract more users. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2qaaK hg/aos (Reuters, dpa)
