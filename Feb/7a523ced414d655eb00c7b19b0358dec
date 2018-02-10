@@ -1,0 +1,17 @@
+Nearly a year after Alphabet's self-driving unit had accused ride-hailing company Uber of plotting to steal important technology, the two companies announced a settlement on Friday. Uber will pay Waymo a 0.34 percent equity stake amounting to about $245 million at Uber's recent $72 billion valuation. Uber also agreed not to incorporate Waymo's confidential information into its hardware and software. Uber chief executive (CEO) Dara Khosrowshahi said in a statement that he felt "regret" over the dispute and that he wished his predecessor had handled it differently. "The prospect that a couple of Waymo employees may have inappropriately solicited others to join Otto, and that they may have potentially left with Google files in their possession, in retrospect, raised some hard questions," he wrote. Read more: Uber CEO to end 'pirate' culture in push for 'reset' in Germany Waymo said it believed the deal would protect Waymo's intellectual property. "We are committed to working with Uber to make sure that each company develops its own technology," a Waymo spokesperson added. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2jE2Q Rivals become partners The case started in February 2017 when Waymo — the self driving car unit spun out by Google's parent company Alphabet — accused Uber of using at least one Waymo trade secret in its autonomous cars. Waymo said that when Uber acquired the startup Otto, founded by Google engineer, Anthony Levandowski, in late 2016, Levandowski brought some 14,000 Google files with him, some of which contained secrets regarding laser-based sensors, a key component in self-driving. Read more: Uber teams up with NASA for 'flying car' venture Still on Friday the Uber CEO claimed the company's sensor designs are unique and that Levandowski's actions were unrelated to his work at Uber. "To be clear, while we do not believe that any trade secrets made their way from Waymo to Uber, nor do we believe that Uber has used any of Waymo's proprietary information in its self-driving technology, we are taking steps with Waymo to ensure our Lidar and software represents just our good work." Khosrowshahi said. The Uber CEO also said that he saw Alphabet as a valuable partner and hoped to end the distracting case for the sake of his own engineers. Ironically, Waymo now owns a stake in Uber, so that the two companies have been brought closer together after their legal battle. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2phKO uhe/aos (Reuters, dpa) 
