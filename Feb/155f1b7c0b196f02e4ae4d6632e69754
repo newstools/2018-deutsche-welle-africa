@@ -1,0 +1,17 @@
+Indonesian officials have lowered the threat risk level of Bali's Mount Agung volcano, allowing thousands of people who evacuated its surrounding areas months ago to return home. Fears a major eruption may be imminent first appeared September 22, prompting officials to raise the alert status to its highest level. That led 140,000 people to evacuate the area. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2oMxF The latest decision to downgrade the threat level comes after several scientific indicators pointed to a decline in volcanic activity over the past month, according to Gede Suantika, a senior volcanologist at Indonesia's center for volcanology. "The volcanic earthquakes are now ... declining significantly," Suantika said. "The deformation is deflating and getting more stable and the concentration of the volcanic gas spewing into the air is also declining." The alert level has been reduced to its second-highest level, which significantly reduces the size of the evacuation zone by 6 kilometers (3.7 miles) to 4 kilometers. Last big eruption was deadly Since there are no inhabitants within 4 kilometers of the mountaintop, all evacuees are now free to return home, according to Ignasius Jonan, the minister of energy and natural resources. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2lA7g "People's activities, as well as tourism, in Bali have been declared safe and there will no more disruption related to the volcano at this time," Jonan said. Officials said while villagers could return home they should not venture close to the volcano's crater, which was still spewing smoke — an indication that magma is still rising within the 3,030-meter (9,900-foot) volcano. After the initial burst of seismic activity in September the mountain calmed in late October, prompting officials to lower the alert level before raising it to its highest level, again, in November. Tourists then on the island rushed to flee as the local airport was shuttered for three days. Villagers watch Mount Agung spewing smoke and ash in November Mount Agung lies about 70 kilometers northeast of Kuta, a tourist hotspot. It last erupted in 1963 resulting in the death of about 1,100 people. Mount Agung is one of more than 120 active volcanoes in Indonesia, which is part of the so-called "Ring of Fire" — a collection of active fault lines that stretch from the Western Hemisphere through Japan and across Southeast Asia. Read more: Why Agung is so dangerous bik/sms (AP, AFP, dpa)
