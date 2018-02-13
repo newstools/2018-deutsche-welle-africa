@@ -1,0 +1,17 @@
+Martin Schulz announced on Tuesday that he was giving up his position as the head of Germany's Social Democrats (SPD) effective immediately. The failed chancellor candidate and former head of the European Parliament made the decision after days of personnel debates within the SPD. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2sZsb Read more: Opinion: SPD leader Martin Schulz's political gamble has failed "With my resignation from office and decision not to participate in the government, I want to bring the personnel debate in the SPD to an end so that the members can really concentrate on what is in the coalition agreement," Schulz told reporters. Former Labor Minister and current head of the SPD's parliamentary group Andrea Nahles was nominated to take his place in a unanimous decision by SPD leaders, Schulz said. Read more: Who is Andrea Nahles, the potential new SPD leader? Should she be elected at a party conference in Wiesbaden in April, Nahles will become the first woman to run the party in its 150-year-history. Nahles faces a challenge for the SPD's top post from Flensburg Mayor Simone Lange. Hamburg Mayor Olaf Scholz, who is slated to become Germany's next finance minister, will provisionally lead the party until the April 22 party congress, according to party sources. Schulz's fall from power Tuesday's announcement caps off a turbulent week for the former SPD leader, after his party agreed a coalition deal with German Chancellor Angela Merkel's Christian Democrats (CDU) and their Bavarian allies the Christian Social Union (CSU) last Wednesday. Just two days after the coalition deal was struck, Schulz announced he was abandoning his bid to serve as Germany's next foreign minister after heavy criticism from his party for seeking the job after he previously said he wouldn't serve in the next German government. Schulz has also been criticized by fellow SPD politician and current Foreign Minister Sigmar Gabriel for pursuing the post. Divisions in SPD The upheaval at the top of the SPD has distracted from party leaders' attempts to convince party members to agree to the coalition deal. The party's 464,000 party members will vote in a postal ballot on the deal, with the results expected to be announced on March 2. Read more: Refugees vote on German coalition: 'A big step for integration' The center-left party is currently divided over whether to sign on for another four years in a so-called "grand coalition" with Merkel. Last year's general election in September saw the SPD receive 20.5 percent — the party's worst postwar electoral result. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2sIcw rs/kms (AP, AFP, dpa, Reuters)
