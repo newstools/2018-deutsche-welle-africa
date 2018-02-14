@@ -1,0 +1,9 @@
+A Turkish court on Wednesday denied entry to the German ambassador to Ankara to the hearing of Selahattin Demirtas, the former co-leader of the pro-Kurdish Peoples' Democratic Party (HDP). Ambassador Martin Erdmann wanted to follow the hearing of the Kurdish politician in Ankara's Sincan district, but the court denied him access, the German Embassy in Ankara said on its Turkish language Twitter account. Demirtas has been in pre-trial detention on terrorism-related charges since November 2016. He faces up to 142 years in jail if found guilty. The Turkish government has come down heavily on HDP since the failed coup in 2016, arresting hundreds of officials and raiding several offices. Read more: Germany and Turkey in 2017: a rollercoaster relationship Ankara accuses HDP, the second-largest opposition party in the Turkish parliament, of maintaining close ties to the outlawed Kurdistan Workers' Party (PKK), an armed group that has waged a decades-long insurgency against the Turkish state. But Germany and other European countries have said Ankara was targeting the opposition in the wake of the failed coup, and have red flagged the worsening of freedoms, fundamental rights and the rule of law in Turkey. Read more: How Deniz Yücel's year in prison affects German-Turkish relations Turkey has arrested tens of thousands of soldiers, police officers, judges and teachers for suspected involvement in 2016 coup which President Recep Tayyip Erdogan used to expand his powers. The HDP elected parliamentarians Pervin Buldan and Sezai Temelli new leaders on Sunday.  Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2ozmJ
