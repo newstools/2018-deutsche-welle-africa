@@ -1,0 +1,9 @@
+At least 22 people were killed and 79 more injured in a truck accident Wednesday in the northwestern city of Bani Walid in Libya, a military source said. The truck transporting the migrants flipped over in the town that is known as a hub for smugglers transporting migrants to Italy. Read more: UN migration agency urges Facebook to combat human traffickers The details Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2oMfH 'Situation is catastrophic' The local hospital in Bani Walid appealed to charity and civil society groups to provide assistance to those injured in the accident. "The situation is catastrophic. There are not enough resources to treat and shelter this large a number of injured," the hospital said in a statement, according to Libya's news portal Africa Gate. Read more: Why Donald Trump's immigration deal is a hard sell A hub for smugglers: Bani Walid is situated in the northwest of Libya, south of Tripoli, and is a hotspot for smugglers moving migrants from sub-Saharan countries neighboring Libya to the coast, where they then board boats to Italy. Migration accidents in 2018: On February 2, 90 migrants were feared to have drowned after their boat capsized off the coast of Libya, while about a week before, a boat with 130 people on board capsized in the Mediterranean, leaving up to 40 dead. Migration to Europe: More than 6,600 migrants and refugees have already entered Europe by sea this year, the IOM said, with the journey to Italy via the central Mediterranean route making up almost 65 percent of the entries. law/sms (AP, dpa, Reuters)
