@@ -1,0 +1,9 @@
+Industrial and technology group ThyssenKrupp reported Wednesday its first-quarter operating profit rose by more than a third. The result was boosted by a recovery at its steel unit, which is to be merged with Tata Steel's European operations. Operating profit at ThyssenKrupp's steel division soared nearly sixfold to €160 million ($198 million) due to improved prices that also helped Tata and market leader ArcelorMittal to post strong results in recent weeks. The German company had agreed last September to combine its European steel unit with that of India's Tata Steel to create Europe's No.2 player in the market. Shareholders want more It is expecting the signing of the joint venture contract in early 2018, marking the biggest step so far in the company's efforts to shift its focus toward technology and away from steel. Elevator Technology, ThyssenKrupp's most profitable business, reported a 3-percent rise in first-quarter net earnings to €220 million, accounting for about half of the group's €444 million profit total. A number of investors including ThyssenKrupp's second-largest shareholder, Cevian, have called for further restructuring measures to create more value. The group's shares have shed more than 8 percent since the steel joint venture was announced. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2oVaS hg/mm (Reuters, dpa)
