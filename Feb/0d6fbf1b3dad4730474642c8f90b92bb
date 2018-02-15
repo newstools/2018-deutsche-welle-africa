@@ -1,0 +1,9 @@
+Irish central bank chief Philip Lane (pictured above), who is running for the vice presidency oft he European Central Bank (ECB), on Thursday won the backing of a key European Parliament committee. After talking to Lane and his strongest rival for the job, Spanish Economy Minister Luis De Guindos, "the majority of the political groups considered Governor Lane's performance more convincing," Committee on Economic and Monetary Affairs Chairman Roberto Gualtieri said. "Some groups expressed reservations for De Guindos' appointment," he added in a statement. More hurdles to take Eurozone finance ministers are scheduled Monday to pick their favorite to succeed Portugal's Vitor Constancio, whose eight-year mandate expires in May. The final decision will be taken on March 22 at an EU summit after consultations with the European Parliament and the ECB's Governing Council. Constancio's replacement is being watched closely in European capitals as it is the first in a series of changes at the top of the ECB over the coming two years, including the post of president of the ECB currently held by Italy's Mario Draghi. The committee said it "regrets that no female candidates have been put forward" and called for a more gender-balanced representation in the ECB. Only one woman currently sits on the bank's ruling body, German national Sabine Lautenschläger. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2ozMY hg/aos (AFP, Reuters)
