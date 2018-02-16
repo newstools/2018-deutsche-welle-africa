@@ -1,0 +1,17 @@
+Unknown hackers stole 339.5 million roubles ($6 million, €4.8 million) from a Russian bank using the global payment network SWIFT, the country's central bank admitted on Friday. The cyberattack took place sometime last year, officials wrote at the bottom of a report on digital thefts in the Russian banking sector. The hackers took control of a computer at one of the country's banks and then used the payment transfer facility to move millions of roubles to their accounts, a central bank spokesman confirmed following the publication. Read more: US spies hacked global banking system: report The central bank said it had been sent information about "one successful attack on the workplace of a SWIFT system operator" without naming the institution involved. "The volume of unsanctioned operations as a result of this attack amounted to 339.5 million roubles," it said. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2qXHM The disclosure is the latest in a string of attempted and successful cyber heists using fraudulent wire-transfer requests. The Russian bank hack evokes memories of the spectacular plot in Bangladesh in February 2016, where cybercriminals broke into the country's central bank and stole $81 million. Again, the SWIFT system was utilized. SWIFT 'is secure' Swift payment systems are used by around 11,000 institutes in 200 countries and are responsible for the transfer of trillions of dollars between accounts each day. A spokeswoman for the Brussels-based SWIFT said the company does not comment on specific entities but insisted its own systems have never been compromised by hackers. But the payment transfer system has warned that digital heists were becoming more prominent, as hackers use more sophisticated tools and techniques to launch new attacks. Read more: Blackberry tool aims to stop self-driving cars from being hacked SWIFT refused to disclose the number of attacks but those that became public involved Taiwan's Far Eastern International Bank and Nepal's NIC Asia Bank. It's not the first time a Russian bank has been targeted. In December, hackers tried to steal 55 million roubles from Russian state bank Globex using the SWIFT system. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2riGz mm/hg (Reuters, Interfax)
