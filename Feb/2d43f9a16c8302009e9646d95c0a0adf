@@ -1,0 +1,9 @@
+Roger Federer has become the oldest world number one in ATP history by reaching the semifinals of the Rotterdam Open. The 36-year-old Swiss overcame an early setback to beat Robin Haase of the Netherlands 4-6, 6-1, 6-1 and will replace old rival Rafael Nadal at the top of the rankings. The 20-time Grand Slam winner surpasses Andre Agassi, who held the top spot aged 33 years and 131 days in 2003, as the oldest man to claim the world number one spot. It is Federer's first time back at the summit since October 2012 having first claimed the top position in February 2004. "Reaching number one is the ultimate achievement in tennis. When you're older you have to work double the amount, you have to wrestle it back from someone who's worked hard to get there. It's a dream come true," an emotional Federer said on court immediately after the match. "It's been an amazing journey and to clinch it here, where I got my first wildcard in 1998, means so much." Agassi was amongst the first to congratulate Federer. "36 years 195 days... @rogerfederer continues to raise the bar in our sport. Congratulations on yet another remarkable achievement!!," tweeted the American. mds (Reuters, AFP) Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2ric7
