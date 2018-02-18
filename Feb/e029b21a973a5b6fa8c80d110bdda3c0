@@ -1,0 +1,9 @@
+The avalanche took place at an altitude of 2,500 meters (8,202 feet) on a mountain ridge called the Col de Fenestralin in the Finhaut region of the Canton of Valais, near the Swiss-French border. "There was a group of ten skiers at the moment of the avalanche near the snow which broke away," police spokesman Steve Leger said. "The person who gave the alert thought they had all been carried off." In fact they were reported to be safe. "The rescue team has found the two injured walkers and taken them to hospital," he said. They were not thought to be seriously injured. Switzerland has been witnessing heavy snowfall in the past few weeks, prompting authorities to issue high-level avalanche warnings of 3 out of a maximum 5 which is defined as a "critical avalanche situation." Several other avalanches occured Sunday and police called for caution, especially from any skiers tempted to move off the marked pistes. ap/jm (Reuters, dpa) Each evening at 1830 UTC, DW's editors send out a selection of the day's hard news and quality feature journalism. You can sign up to receive it directly here. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2rMdi
