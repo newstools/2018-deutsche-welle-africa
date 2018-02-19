@@ -1,0 +1,9 @@
+Baking a pizza is not really that simple as it sounds, as any "pizzaiolo," or pizza-maker, will confirm. The dough must have the right consistency. The oven must have the right temperature. Indeed, the whole pizza-making process is regulated by a governmental authority in Italy. Read more: Lawyer in Dortmund presses charges against unwanted pizzas In December 2017, UNESCO recognized the timeless art of Neapolitan pizza makers as Intangible Cultural Heritage. According to the international cultural organization, "traditional knowledge that has been transmitted from generation to generation" has turned pizza-making and eating into a "social ritual." But pizza has not only inspired global gourmands but also artists, as visitors can witness at the "Pizza is God" exhibition at Düsseldorf's NRW Forum. The gallery above previews some of the bite-sized artworks. "Pizza is God" runs until May 20, 2018. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2ozql
