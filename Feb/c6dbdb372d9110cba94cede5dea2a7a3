@@ -1,0 +1,9 @@
+German engineering group Siemens announced Monday it was planning to list a significant minority stake of its medical imaging and diagnostics business Healthineers without specifying how many shares it would offer. Market experts reckoned that Siemens would float between 15 and 20 percent of shares, with the proceeds to go exclusively to the parent company. Siemens said it expected the whole division to be listed on the Frankfurt Stock Exchange in the first half of this year. Testing investor appetite The initial public offering of Healthineers is slated to value the business at about €40 billion ($50 billion) and will likely be Germany's biggest listing since the privatization of Deutsche Telekom back in 1996. "Siemens Healthineers is now ready for its market debut," said the division's Supervisory Board Chairman Michael Sen. The medical business, which competes with units of Philips and General Electric plus a host of smaller technology companies, plans a dividend payout ration of 50 to 60 percent of net profit once it's listed. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2peIO hg/tr (AFP, dpa)
