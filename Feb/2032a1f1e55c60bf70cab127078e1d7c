@@ -1,0 +1,9 @@
+The world's third-largest economy posted a trade deficit of 943.4 billion yen ($8.9 billion, €7.2 billion) in January, marking the first shortfall in eight months, the government in Tokyo announced Monday. The value of inbound shipments climbed by 7.9 percent from a year earlier to 7 trillion yen, with imports of petroleum up 11.4 percent and those of liquefied natural gas rising by 11.5 percent in the first four weeks of 2018. Japan has had to purchase more fossil fuel for power generation since the 2011 meltdown at the Fukushima Daiichi nuclear power station. Of the country's 42 workable nuclear reactors, only three are currently in operation amid persistent public concerns about the use of atomic energy. China trade boosted The value of outbound shipments from Japan jumped by 12.2 percent to 6.1 trillion yen, marking the 14th straight month of growth thanks to robust exports to China. Shipments to the world's second-largest economy, Japan's biggest trading partner, surged by 30.8 percent in January year on year. Japan's sensitive trade surplus with the United States shrank by 12.3 percent on increased imports of liquefied gas, organic chemicals and medical products. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2j44n hg/jd (AFP, dpa)
