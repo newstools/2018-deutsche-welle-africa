@@ -1,0 +1,9 @@
+Martin Scorsese, Oliver Stone, Wes Anderson, Alan Parker, David Lynch, Lars von Trier — the list of directors Willem Dafoe has worked with is long and impressive. For his outstanding contribution to international cinema, Dafoe is to receive an Honorary Golden Bear in Berlin on Tuesday evening. The film festival also screens some of the most critically-acclaimed films of his career. Read more: Berlinale: The top titles in the competition The audience can relive his compelling portrayal of an American soldier in 1986's "Platoon," or the blood-sucking character of Max Schreck in "Shadow of the Vampire." He was nominated for an Academy Award for both roles but has never won one. Luck may smile upon him this year, however, with an Oscar nomination for "The Florida Project" in which he plays Bobby Hicks, the manager of The Magic Castle Motel who looks out for the children of a wayward mother. Willem Dafoe plays Bobby Peru in David Lynch's "Wild at Heart" The actor's most commercially successful role to this day is that of Norman Osborn, alias Green Goblin, in the "Spider-Man" movie from 2002. Arguably his most sinister role is that of Bobby Peru in 1990's "Wild at Heart." Willem Dafoe was born in Appleton, Wisconsin in 1955 and began studying drama at university at the age of 17. He left the institution after only three semesters when he joined an experimental theater company, "Theatre X."  He started to focus on film in the 1980s. Click through the gallery above to relive some of his most unforgettable performances. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2svB2
