@@ -1,0 +1,9 @@
+Many regard the Weimar Republic period from 1918 to 1933 as the heyday of modern German culture. This is especially true in regard to motion pictures, with films from the era like Fritz Lang's "Metropolis" (1927) still revered as cornerstones of modern cinema. Read more: The Roaring Twenties — an illustrated trip through an eventful decade Titled "Weimar Cinema Revisited," the Retrospective section of the 2018 Berlinale now pays tribute to such masterpieces with a selection of 28 films shot between 1918 and 1933. "Across genres, the Retrospective documents the Weimar Republic’s zeitgeist and tackle issues of identity," says Berlinale director Dieter Kosslick. "The spectrum encompasses zesty film operettas and comedies full of wordplay, as well as films with strong social and political viewpoints. The films are incredibly fresh and topical." Read more: How artists captured the splendor and misery of the Weimar Republic The schedule is a mix of well-known titles and long-lost gems, and as Rainer Rother, the head of the Berlinale's Retrospective, confirmed to DW, all the entries have been restored, which makes even famous classics worthy or rewatching. Flick through the gallery above to find more about the featured films. The Retrospective section runs until February 25, 2018. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2sjdK 
