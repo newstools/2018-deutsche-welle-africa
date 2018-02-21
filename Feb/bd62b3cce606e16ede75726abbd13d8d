@@ -1,0 +1,9 @@
+New Zealand on Wednesday revealed the official text of the Trans-Pacific Partnership, or TPP-11, which had to be redrawn after US President Donald Trump rejected it last year. Trade Minister David Parker said in Wellington that making the revised text public would allow better scrutiny before its formal signing in Santiago on March 8. Changes to the original document include the suspension of 22 items relating to areas such as intellectual property and taxpayer-subsidized medicine. Australian Trade Minister Steve Ciobo said the landmark agreement would eliminate more than 98 percent of tariffs in a trade zone with a combined GDP of some $13 trillion (€10.5 trillion). Hoping for the US to rejoin Together, the 11 nations set to sign the deal account for about 13.5 percent of the global economy. That figure would be close to 40 percent, if the United States was included, an outcome some lawmakers in Donald Trump's own Republican party are reportedly pushing for. "We encourage you to work aggressively to secure reforms that would allow the US to join the agreement," 25 Republican senators wrote in a letter cited by The Washington Post. "Increased economic engagement with the 11 nations currently in TPP has the potential to substantially improve the competitiveness of US businesses and support millions of US jobs." The US president has not ruled out a U-turn despite initially referring to the trade pact as "a disaster," believing the accord would punish US workers by allowing companies to hire cheaper labor abroad. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2bSzl hg/tr (AFP, Reuters)
