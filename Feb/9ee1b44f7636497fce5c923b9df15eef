@@ -1,0 +1,9 @@
+France should follow the example of US President Donald Trump and pursue a "France first" agenda, Marion Marechal-Le Pen told a gathering of US conservatives outside of Washington, DC, on Thursday. Marechal-Le Pen, an arch-conservative and former lawmaker, is the niece of Marine Le Pen, the leader of France's far-right National Front party (FN). Marechal-Le Pen has been touted as a future leader of the party despite her decision to retire from politics last year. Read more: Macron expresses concern over growing nationalist sentiment in EU Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2bZkt What Marechal-Le Pen said: Why the speech matters: Marechal-Le Pen withdrew from the political limelight last year after her aunt lost the second-round presidential run-off to Macron. She has, nevertheless, been popular among the FN's grassroots members. Her views on abortion, immigration and Islam have often been more hardline than those of Marine Le Pen. Some observers have touted Marechal-Le Pen as a future FN leader. The party has been struggling to remain united following the presidential election defeat. What is CPAC: The Conservative Political Action Conference is an annual gathering of high-profile conservatives in the United States. Trump, a Republican, is set to give a speech to attendees on Friday. amp/sms (AP, AFP, Reuters)
