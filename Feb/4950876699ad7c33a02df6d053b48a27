@@ -1,0 +1,9 @@
+A Cairo court on Tuesday sentenced prominent Egyptian singer Sherine Abdel-Wahab to six months in prison in absentia for offending Egypt. The court accused her spreading of "false news." She can appeal. The offense occurred in the United Arab Emirates in 2016 when the pop singer suggested that drinking water from the Nile would make one sick with a parasitic disease. At a concert a fan asked her to play the song, "Have You Drunk from The Nile?" Abdel-Wahab responded: "No, you'd get Bilharzia. Drink Evian, it's better!" Read more: German archaeologists help uncover ancient cemetery near Egyptian city of Minya Disparaging Egypt A video of her response then hit social media, drawing criticism and a lawsuit from an Egyptian lawyer for disparaging Eygpt and hurting the country's tourism industry. She later apologized for the comment in a Facebook posting. Bilharzia, or Schistosomiasis, is a disease caused by parasitic worms. It can be transmitted by drinking or being exposed to contaminated water. The Egyptian government has developed plans with the World Health Organization to eventually eliminate Bilharzia from its waters, including through medication programs. Tuesday's verdict comes after in December an Egyptian court sentence a female pop singer to two-years in prison for a sexually suggestive music video. cw/aw (AFP, dpa) Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2qNvn
