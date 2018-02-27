@@ -1,0 +1,9 @@
+Saudi Arabia's King Salman (above left) has announced a shake-up of top military and ministerial posts. Monday's move was seen by many as an attempt to promote younger officials in a country where more than 50 percent of population is estimated to be under the age of 25. Salman has appointed First Lieutenant General Fayyad bin Hamed al-Ruwayli as his new chief of staff, and put new leaders in charge of the country's air force and ground troops. The king also appointed several new deputy ministers, one of whom was a woman — a very rare move in the patriarchal kingdom. Tamadur bint Youssef al-Ramah will now serve as deputy minister of labor. The country first appointed a female deputy minister in 2009. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2tNJw 'Young blood' King Salman also named three new deputy governors from the descendants of the king's brothers, a move likely calculated to placate branches of the family that may have felt passed over during his ascension in 2015. Saudi state television said the king was "pumping young blood" into the government. The popularity of Crown Prince Mohammed bin Salman (above right), 32, has prompted a push for young people to be involved in the deeply conservative government. The crown prince has introduced a sweeping reform strategy for the country called Vision 2030, an effort to diversify the country's economy away from oil and to encourage more foreign investment. es/cmk (Reuters, dpa) Every evening at 1830 UTC, DW editors send out a selection of the day's hard news and quality feature journalism. You can sign up to receive it directly here.
