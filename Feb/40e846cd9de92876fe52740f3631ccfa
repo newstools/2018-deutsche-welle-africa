@@ -1,0 +1,9 @@
+German automotive supplier Bosch said Wednesday it had dropped earlier plans to produce its own battery cells, saying that the billions of euros of investment required would be too risky. The decision is a severe blow to European politicians and car manufacturers who have frequently called for companies to team up in a bid to create a regional battery cell producer to compete with Asian heavyweights such as Samsung and Panasonic. "Given dynamic external market forces that can only be predicted with difficulty, it's unclear whether this investment would pay off for Bosch, and when," the firm said in a statement. No interest, period! "To be a significant player in electric mobility, we don't need to produce the cells by ourselves," Bosch's head of mobility solutions, Rolf Bulander insisted. He added that the company was therefore halting its research into cell technologies and dissolving the Lithium Energy and Power joint venture for lithium-ion technology. Bosch had calculated that it would have had to pump around €20 billion ($24.4 billion) into getting battery cell production off the ground to eventually secure a global market share of 20 percent. "We say no to battery cells of our own, but we say yes to Bosch batteries," Bulander explained. "Producing our own cells is no prerequisite for being successful long-term." The German government and the European Commission see things differently, arguing that battery cell production must not be left wholly to Asian competitors which are already dominating the market. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2saMJ hg/aos (Reuters, dpa)
