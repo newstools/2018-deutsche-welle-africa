@@ -1,0 +1,9 @@
+The death toll stands at 20 but is expected to rise after several aftershocks hit rescue efforts over the past two days since a 7.5 quake hit the Southern Highlands province 560 km (350 miles) northwest of the Papua New Guinea capital, Port Moresby. Southern Highlands Governor William Powi told The Associated Press that communication remains difficult and the death toll may rise. "We are looking at massive, catastrophic havoc and destruction," he said. A 6.0 tremor hit just before 1 p.m. (0300 UTC) on Wednesday, the US Geological Survey said, creating landslides and damaging mining, gas and power infrastructure. A spokesman from Papua New Guinea's National Disaster Center said a preliminary assessment of damage was still underway as officials tried to fly by helicopter to cut-off areas. Australia has sent a C-130 military transport plane to help with aerial surveillance. Earthquakes are common in Papua New Guinea, which sits on the Pacific's "Ring of Fire," a hotspot for seismic activity due to friction between tectonic plates. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2i5qD jbh/kms (Reuters, AP)
