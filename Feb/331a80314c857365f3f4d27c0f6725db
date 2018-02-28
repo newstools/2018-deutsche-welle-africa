@@ -1,0 +1,9 @@
+In an interview with US magazine, Variety, two-time Oscar winner, Barbra Streisand, divulged that she had her dog cloned. Read more: Barbra Streisand at 75: A girl from Brooklyn makes it big Her beloved pet, Samantha — a Coton de Tulear — died last year at the age of 14. By taking cells from the dying dog's mouth and stomach, she was able to have her cloned. The result was two puppies, called Miss Violet and Miss Scarlett. Barbara Streisand likes the breed of dog called Coton de Tulear "I'm waiting for them to get older so I can see if they have her brown eyes and seriousness," she said. When the puppies arrived, she dressed them in violet and scarlett so that she could tell them apart. While she was waiting for her new puppies she fell in love with another dog who was a distant relation of Samantha. Also a Coton de Tulear, it was called Funny Girl – the same name as the film that launched Streisand's career. Streisand adopted her and renamed her Miss Fanny. cl/kms (Reuters, AFP) Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2rV4Q
