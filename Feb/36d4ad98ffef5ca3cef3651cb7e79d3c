@@ -1,0 +1,25 @@
+The German government confirmed on Wednesday that it had suffered a large cyberattack that infiltrated federal computer networks. Citing anonymous sources, German news agency dpa had earlier reported that the Russian hacking group APT28 had placed a piece of malware in a key government network. The sources said the malware could have remained in the government's networks for as long as a year before the government discovered the breach in December. Security services reportedly allowed the malware to remain in the system until Wednesday to try and get information about who was behind the attack. Read more: Does technology threaten democracy? Official confirmation The German Interior Ministry confirmed the attack without confirming the identity of the perpetrators. "We can confirm that the Federal Office for Information Security (BSI) and intelligence services are investigating a cybersecurity incident concerning the federal government's information technology and networks," an Interior Ministry spokesman said. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2tUqH The targeted ministries had since taken necessary measures to investigate the attack and protect their data, the spokesman added. How much data was intercepted within that period of time remains unclear. 'Secure' network jeopardized The hackers reportedly infiltrated the government's "Informationsverbund Berlin-Bonn" (IVBB) network, a specially designed communications platform that is separate from other public networks to ensure a supposed added layer of security. It's used exclusively by the Chancellery, the German parliament, federal ministries, the Federal Audit Office and several security institutions in Berlin and Bonn, the former German capital where some ministries still have offices. The government said it receives roughly 20 attempted hacking attacks per day, while German intelligence services also carry out penetration tests once per week. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2lIaF Read more: Hacking for the government: Germany opens ZITiS cyber surveillance agency Opposition livid The German parliamentary committee that oversees the work of Germany's intelligence services is set to meet shortly after noon on Thursday to discuss the incident. Some opposition lawmakers have criticized the security services for failing to inform them about the attack. "We expect representatives at the Interior Ministry, Foreign Ministry, Defense Ministry and Federal Office for Information Security to explain themselves," said Manuel Höferlin from the Free Democratic Party (FDP). Konstantin von Notz from the Greens said: "The question that needs to be answered is why the public has only now found out about this." The Left Party's cyber expert, Anke Domscheit-Berg, told public broadcaster ZDF it was "really a scandal" that she first read about the attack in the press. APT28's alleged Kremlin ties APT28, also known as Fancy Bear, has been linked to Russian military intelligence. The group was identified as the likely source of an attack on the German parliament in 2015, as well as NATO and governments in eastern Europe. The group's 2015 attack on the Bundestag was so far-reaching that the German government was forced to replace its entire IT infrastructure. Each evening at 1830 UTC, DW's editors send out a selection of the day's hard news and quality feature journalism. You can sign up to receive it directly here. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2nFEQ amp,dm/sms (dpa, AP, Reuters)
