@@ -1,0 +1,9 @@
+In the first two months of this year, 10,243 migrants entered Europe via the Mediterranean Sea, compared with 17,438 during the same time in 2017, according to the United Nations' International Organization for Migration (IOM). This year, roughly half of migrants attempting to reach Europe by seaarrived in Italy, with the remainder reaching the shores of Greece andSpain. The IOM says 418 people have been recorded missing or dead so far this year. At the height of the refugee crisis in Europe in 2016, more than 5,000 people died trying to reach Europe by sea alone. Read more: German school system is failing refugees In February 2016, there had already been 116,005 arrivals by the end of February. In April that year, the Balkan countries closed their borders, making it harder for migrants to get to Europe. The IOM attributes the drop to the closing of the western and eastern Balkan routes as well as to the more restrictive migration policies throughout Europe. Read more: France presents new immigration bill In late 2015 and early 2016, Europe was faced with a large influx of migrants, which led to Germany, in particular, taking in almost a million refugees – a move that German Chancellor Angela Merkel was both applauded and attacked for at home and abroad. DW's editors send out a selection of the day's hard news and quality feature journalism. You can sign up to receive it directly here. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2onb3
