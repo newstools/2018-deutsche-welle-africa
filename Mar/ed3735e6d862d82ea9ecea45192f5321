@@ -1,0 +1,9 @@
+Two Spanish skiers were killed on Saturday when an avalanche hit a group skiing off-piste on a mountain in southwestern France, near the Aragnouet-Bielsa tunnel which links France to Spain. Three other members of the group managed to alert authorities after their companions went missing just before midday (1100 GMT). Around 20 rescuers were deployed in the area, along with dogs and two helicopters, said authorities. One man was found dead in the snow by rescuers, while the other was discovered alive by a rescue dog. He died later in a Toulouse hospital. The Mercantour avalanche was the winter's deadliest Second avalanche in 24 hours The deadly accident comes just a day after four skiers were killed in the Mercantour National park in the French Alps, the winter's deadliest avalanche to date. The guide for that group was detained by police for potentially putting the group at risk. France has seen heavy snowfalls over the past week, as a blast of frigid weather from Siberia engulfed Europe before warmer weather swept in from the south on Thursday. More than 20 people have died since France's ski season began in November. On February 15, an avalanche in the Pyrenees mountains killed three skiers. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2tXtQ av/cmk (dpa, Reuters, AFP)
