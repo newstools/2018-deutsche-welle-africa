@@ -1,0 +1,9 @@
+Japanese car giant Toyota told reporters at the Geneva Motor Show it would stop selling diesel cars in Europe, beginning the phaseout later this year. "Diesel will be phased out in our passenger cars in 2018," Toyota Motor Europe President Johan van Zyl said in Geneva where Europe's first major car show of the year opens to the general public later this week. "We will not develop new diesel technology for passenger cars, we'll continue to focus on hybrid vehicles." Diesel discredited An emissions-cheating scandal, which blew up at Volkswagen in 2015, has heaped discredit on diesel technology, criticized for harmful nitrogen oxide and particulates. It has been a major blow for many carmakers which had essentially relied on diesel as they struggled to cut CO2 emissions with the support of public authorities. Meanwhile, major cities including Paris have announced plans to ban diesel, while a top German court last month paved the way for cities in Europe's powerhouse to ban at least older diesel cars from the streets in a bid to improve air quality. Last year, nearly 15 percent of Toyota's sales in Europe were diesel vehicles, down from 30 percent in 2012. At the same time, sales of the Japanese carmaker's hybrid models have risen sharply. Toyota is one of many Japanese auto manufacturers which have joined an alliance with energy firms to double the amount of hydrogen fuel stations across the Asian nation in an effort to boost the sale of new-energy vehicles. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2pIUn hg/jd (AFP, dpa)
