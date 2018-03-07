@@ -1,0 +1,9 @@
+The monarch butterfly embarks on an impressive migration every year. But for the second year in a row, its numbers are declining — figures from an official Mexican government count in the winter of 2017 indicate a decrease of 14.7 percent from the year before. Apart from partial rebounds in the winters of 2001 and 2003, numbers have gone down steadily since 1996. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/1E8vr Storms and intense hurricane seasons disrupt the insect's routes and fell trees they rely upon for shelter. A wind storm and cold snap in March 2016 devastated the core of the butterfly reserve in Mexico. The massive overwintering colony was only discovered in 1975. Pesticides used in the US also harm milkweeds, a plant intertwined with the monarch butterflies' life cycles. The US has set up some programs to help the monarch butterfly population grow again.
