@@ -1,0 +1,9 @@
+Greek anti-terror units have broken up a neo-Nazi ring believed to be behind attacks on migrants and far-left groups. Eleven people were arrested in Athens and two provincial towns, authorities said on Wednesday. Police raids uncovered weapons, Molotov cocktails, extremist propaganda and ammonium nitrate, a bomb-making material. A police spokesperson told the news agency dpa that the neo-Nazi members were suspected of planning to carry out a large bomb attack. Read more: Is it illegal to call someone a Nazi? Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2c0pJ Combat 18 Local media reported the suspects are members of the Greek branch of the neo-Nazi network Combat 18 and Autonome Nationalists. Combat 18 is an armed group that originated in Britain and has spread to other European countries. The number 18 refers to Adolf Hitler's initials – the first and eighth letters of the alphabet. Read more: German village votes to keep 'Hitler bell' The arrested are suspected of carrying out attacks on migrants and far-left anti-fascist groups Far-right attacks on migrants and left wing activists have increased in recent months. In February, five people were injured in the port city of Piraeus in a right-wing attack on an anti-fascist center. Some 70 lawmakers and party officials from the neo-Nazi Golden Dawn, the fourth largest party in parliament, are currently on trial on various charges, including attacking migrants and left wing activists. cw/rt (AFP, AP, dpa)
