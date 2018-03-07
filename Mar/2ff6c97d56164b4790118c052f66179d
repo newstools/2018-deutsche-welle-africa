@@ -1,0 +1,9 @@
+Thirty-nine people died when a Russian transport plane crashed in Syria on Tuesday, Russian news agencies reported, citing the Russian Defense Ministry. The An-26 plane reportedly crashed at Russia's Hmeymim air base in Latakia Province. There were 33 passengers and six crew members on board, according to reports. All of them were members of the Russian Armed Forces," Interfax news agency quoted the defense ministry as saying. The Russian military previously put the death toll at 32. "The reason for the crash according to preliminary information could have been a technical fault," the ministry said, adding that the plane had not come under fire. Russian President Vladimir Putin offered his condolences to the families of those killed in the crash, his spokesman, Dmitry Peskov, was quoted as saying by Russian news agencies. Read more: Russian pilot of downed jet 'killed himself' with grenade Strategic base The plane crashed just 500 meters (1,600 feet) from the runway at the airbase that Russia leases from Syria near the Mediterranean coast. The strategic airport has been Russia's primary base of operations for its air campaign in Syria. Russia has lost nine military aircraft in Syria since it entered the civil war. Read more: Israeli warplane crashes amid cross-border escalation with Syria aw/jm (Reuters, AFP, AP, dpa) Each evening at 1830 UTC, DW's editors send out a selection of the day's hard news and quality feature journalism. You can sign up to receive it directly here. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2s67M
