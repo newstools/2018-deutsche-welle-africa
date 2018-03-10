@@ -1,0 +1,9 @@
+A Swiss court has sentenced a German man to nine years imprisonment for killing his mentally-challenged daughter. The man is said to have trampled his 25-year-old daughter to death in an effort to exorcise a demon. The prosecution presented videos demonstrating the brutal assaults using a life-size straw puppet. The videos displayed how the man stood on his daughter as she lay on the floor and forcefully kicked her in the stomach. The prosecutors also accused the man of raping his dead daughter in an effort to revive her. Autopsy reports showed that the girl died of internal injuries. Read more: Why exorcism is booming in Poland 'Massage' treatment The German man told the Frauenfeld District Court in the canton of Thurgau that he was simply giving his daughter a massage to drive out the demon. Terming the act a negligent homicide, his lawyer requested for a lenient three-year sentence. They plan to appeal Friday's verdict. The incident took place in January 2016 in the municipality of Wagenhausen in Thurgau canton. The victim had known her biological father only for about two and a half years, Swiss newspaper St. Galler Tagblatt reported. The two met on several occasions since coming in contact, including at the apartment of a mutual friend in Wagenhausen, the newspaper said. Each evening at 1830 UTC, DW's editors send out a selection of the day's hard news and quality feature journalism. You can sign up to receive it directly here. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/18bcV
