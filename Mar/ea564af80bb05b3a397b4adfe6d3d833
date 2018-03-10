@@ -1,0 +1,9 @@
+Vienna's Westlicht camera auction house announced on Saturday that the Leica 0 Series camera had attracted a record price tag, possibly because of the condition it was in. The camera — serial number 122 — went on auction at a start price of €400,000 ($492,300). After a bidding war ensued in the room and by phone, the sum rose to €2.4 million – the hammer price of €2 million plus a €400,000 surcharge for the auctioneer. "The remarkable price certainly also reflects the camera's fantastic original condition,” said a press release from Westlicht. The camera was bought by a private collector in Asia. Previously, the most expensive camera in the world had also been a Leica 0 Series camera, which raised €2.16 million back in 2012. That sale took place at the same auction house. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/1DbKm The 0-Series cameras were made in 1923, two years before Leica cameras first came onto the market. Some 25 such prototypes were produced by camera mechanic Ernst Leitz. Only three of them are known to still be in their original condition. The first Leica cameras were born out of necessity for a practical lightweight camera that could be easily carried around. After first Leicas to become available were unveiled at the Leipzig spring trade fair in 1925, they proved an instant hit with photographers across Europe. "This world record price of €2.4 million demonstrates the ongoing and ever-growing myth of the Leica brand," said Andreas Kaufmann, chairman of Leica's supervisory board.
