@@ -1,0 +1,9 @@
+Net migration to Germany fell by more than half from 2015 to 2016, figures released on Tuesday by the German Federal Statistics Office show. Altogether 1,865,000 people came to Germany in 2016, while 1,365,000 left, which equals a net migration figure of 500,000. That is down from 1,140,000 the year before, at the height of the refugee crisis. The office said this reduction was partly due to the closing of the Balkan route to migrants seeking to come to Europe. Net migration of people with non-German passports reached 635,000, down from 1,157,000 in 2015, while some 135,000 more Germans left the country than returned. Read more: Refugee children making a new life in Germany Less migration from Syria, Afghanistan, Iraq A majority of net migrants to Germany came from Middle Eastern and Asian countries (63 percent), with 15 percent coming from other EU nations and 9 percent from African states. The number of net migrants from Syria (146,000) was under half that in the previous year, and numbers from Afghanistan (56,000) and Iraq (48,000) were also down. Net migration from Poland and Romania was also considerably reduced in comparison with the year before, while there was negative net migration from almost all Balkan states, compared with strong positive figures for 2015. Read more: Data Analysis: Aid money alone will not be enough to stop the causes of migration Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2hFGb Each evening at 1830 UTC, DW's editors send out a selection of the day's hard news and quality feature journalism. Sign up here to receive it directly here.
