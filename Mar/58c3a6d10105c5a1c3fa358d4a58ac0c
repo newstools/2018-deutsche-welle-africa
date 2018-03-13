@@ -1,0 +1,9 @@
+British computer scientist Tim Berners-Lee, who invented the internet 29 years ago, told the German business daily Handelsblatt on Tuesday that big internet platforms and social media companies must be regulated to prevent the worldwide web from being "weaponized at scale." In an open letter to the global internet community, he spoke of "a new set of gatekeepers" being dominant and controlling the spread of ideas and opinions. "The fact that power is concentrated among so few companies has made it possible to weaponize the web," he argued. Closing the loopholes "In recent years, we've seen conspiracy theories trend on social media platforms, fake Twitter and Facebook accounts stoke social tensions, external actors interfere in elections and criminals steal troves of personal data," Berners-Lee said. The scientist's warning comes as some European governments turn to legislation to curb fake news and hate speech that they fear is undermining the basis of their democracies. In Germany, a law came into force on January 1 that foresees fines of up to €50 million ($62 million) for platforms that fail to remove hate speech within 24 hours. French President Emmanuel Macron is planning legislation that would empower judges to order the removal of fake news during election campaigns. Berners-Lee doubted that companies that were created to maximize profits could adequately address the problem on a voluntary basis. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2ezop hg/aos (dpa, Reuters)
