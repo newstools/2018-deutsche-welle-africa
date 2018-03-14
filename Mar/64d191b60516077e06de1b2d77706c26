@@ -1,0 +1,9 @@
+The Washington Post and Politico reported Wednesday nothing stood in the way of CNBC commentator Larry Kudlow becoming the White House's new top economic adviser. Kudlow told the news agency AP in an interview that he'd accepted the president's offer to serve as economic adviser. An official confirmation from the White House is expected Thursday. Kudlow would replace Gary Cohn, who announced last week he would step down after opposing Donald Trump's plans for new trade tariffs. Economic upswing Nor does Kudlow think much of the tariffs on steel and aluminum imports, but that won't likely prove an insurmountable barrier, especially after the president amended his decision to say he would temporarily exempt Canada and Mexico from the tariffs and potentially other nations as well. All in all, Kudlow emphasized, "I'm in accord with Trump's policies," praising the president's handling of the economy during the latter's 14 months in office. "The economy is starting to roar and we're going to get more of that," he told AP. Kudlow, aged 70, is CNBC's senior contributor and was previously the host of the station's prime-time "The Kudlow Report." He served in the Office of Management and Budget during President Ronald Reagan's administration. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2ts4i hg/ch (AP, dpa)
