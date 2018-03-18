@@ -1,0 +1,9 @@
+German Chancellor Angela Merkel defended the country's trade surplus on Saturday amidst a row between the United States government and its trading partners over new tariffs on steel and aluminum. "Trade surpluses show that our products are in demand. And naturally, we want that to remain so in the future," Merkel said in her weekly video podcast. Merkel added the caveat that the surpluses were likely to narrow, however, as domestic demand increases. Indeed, Germany's trade surplus in 2017 was  244.9 billion euros ($301.1 billion), down from 248.9 billion euros the year before. The chancellor also noted that fluctuating exchange rates an oil prices also played a role in surplus values. US President Donald Trump is the most recent, though not the first, to criticize Germany's massive trade surpluses. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2uUN5 Trump incurred the ire of many of his country's allies when he announced two weeks ago that he was imposing a new 25 percent tariff on steel imports and a 10 percent tariff for aluminum in a move criticized by his own economic council for hurting US companies and workers that rely on imported products. The tariffs have also fueled anticipation of a potential trade war, and the European Union has already prepared retaliatory measures against US products such as Bourbon, blue jeans and motorcycles. Germany's Economy Minister Peter Altmaier is set to visit Washington on Sunday to push for a waiver from the tariffs for Germany. es/rc (AP, Reuters)
