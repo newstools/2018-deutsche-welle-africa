@@ -1,0 +1,17 @@
+In what appears to be the first reported fatal crash involving a self-driving vehicle and a pedestrian in the US, a woman was killed Sunday evening when she was struck by an Uber vehicle while walking outside of the crosswalk of a road in Tempe, Arizona. The car was travelling about 40 miles per hour (65 kilometers per hour) in autonomous mode when it struck 49-year-old Elaine Herzberg about 10 p.m. local time (0400 UTC), according to the Tempe Police Department. She was transferred to a local hospital where she died from her injuries. Tempe police said that the car was "in autonomous mode at the time of the collision, with a vehicle operator behind the wheel." Autonomous mode means the car is driving on its own. During tests, a person sits behind the wheel as a safeguard. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2f4qd Read more: Daimler to build self-driving cars for Uber Uber cooperating with probe US road safety regulators sent investigators to examine the circumstances of the collision. In a statement, Uber said that it was "fully cooperating with local authorities in the investigation. Uber CEO Dara Khosrowshahi tweeted: "Some incredibly sad news out of Arizona. We're thinking of the victim's family as we work with local law enforcement to understand what happened." Swedish car brand Volvo confirmed that the Uber car was one of its XC90 SUVs, but said the autonomous software that had been controlling the vehicle was not its own. All testing halted As a result of the crash, Uber announced it had stopped testing the vehicles in Pittsburgh, San Francisco, Toronto and the greater Phoenix area. When the company first began testing such cars in California in 2016, the vehicles were caught running red lights, leading to a high-profile dispute with California regulators. The company noted that driverless cars "require human intervention in many conditions, including bad weather." It also said the new technology had the potential to reduce the number of traffic accidents in the country. Not the first fatal crash The accident is not the first time a self-driving car has been involved in a collision. A driver of a Tesla Motors. Model S car operating in autopilot mode was killed in a collision with a truck in Williston, Florida in 2016. Read more: Self-driving bus collides with truck on its first day, human driver at fault A self-driving vehicle operated by Alphabet Inc's Google was involved in a crash last year in Mountain View, California, striking a bus while attempting to navigate around an obstacle. Uber already temporarily suspended its self-driving program in Arizona last year after a crash involving one of its vehicles, a Volvo SUV. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2spgu amp, uhe/jd (Reuters, dpa, AFP) 
