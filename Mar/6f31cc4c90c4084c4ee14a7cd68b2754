@@ -1,0 +1,9 @@
+Munich based BMW said Wednesday it would raise research and development spending to an all-time high of €7 billion (8.6 billion) this year to bring 25 electrified models to market by 2025. "Investment will rise by a further high three-digit-million-euro amount year on year, primarily from the ongoing new model initiative as well as continued work on e-mobility and autonomous driving," the carmaker said in a statement. Spending on electric and autonomous cars already caused R&D costs to rise by €1 billion last year, reaching €6.1 billion. SUVs in high demand BMW's R&D ratio for 2018 is expected to be between 6.5 percent and 7 percent of sales. The maker of BMW, Rolls-Royce and Mini vehicles said that despite higher spending it expected group pre-tax profit to come in at over €10 billion in 2018. The auto manufacturer earlier this month reported a 5.3-percent rise in 2017 operating profit on surging demand for high-margin sports utility vehicles, helping to offset higher research spending. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/1JaVk hg/jd (Reuters, dpa)
