@@ -1,0 +1,9 @@
+On Thursday, US President Donald Trump is set to announce new sanctions against China for stealing US intellectual property, according to a White House official. The move comes amid heightened fears about a potential trade war over US plans to introduce tariffs on imports of steel and aluminum. Read more: US President Donald Trump orders probe of China's intellectual property practices What we know so far: Read more: Germany and G20 push for free trade amid fears of global trade war How deep are US-Chinese trade relations? In 2016, total trade between the United States and China reached $579 billion (€468 billion) with Chinese imports of US goods totaling $115.8 billion and US imports of Chinese goods at $462.8 billion. Only the 28-member EU saw more trade with the United States in 2016. Last year the US ran a $375 billion trade deficit with China, though US exports to China also hit a new record high. US Federal Reserve Chairman Jerome Powell called the prospect of a trade war a growing threat to the United States. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2ilvh amp/sms (AFP, Reuters)
