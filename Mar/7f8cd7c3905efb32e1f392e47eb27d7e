@@ -1,0 +1,9 @@
+Ukrainian President Petro Poroshenko and Ryanair CEO Michael O'Leary announced the deal at a briefing at Kyiv's Boryspil Airport on Friday. Poroshenko said the launching of routes to Kyiv and Lviv from European destinations pointed to "the quality of the investment climate and the quality of competition conditions" in Ukraine. The authorities in Kyiv have been at pains to show that Ukraine is open for business after the 2013/2014 pro-European uprising, but efforts to attract foreign investment have been hampered by lackluster progress on fighting widespread corruption. Cheaper fares Last year, Ukrainian International Airlines (UIA), which is partly owned by tycoon Ihor Kolomoisky, denied it had been lobbying to prevent a deal between Ryanair and Boryspil Airport. The agreement is bound to be welcomed by a great number of Ukrainians as it will provide more and cheaper routes to European destinations at a time when a new visa-free regime with the European Union has simplified travel for the country's citizens. Ryanair said the Kyiv routes would be to Barcelona, Bratislava, Gdansk, Krakow, London, Poznan, Stockholm, Vilnius, Warsaw and Wroclaw. The Lviv routes would be to Dusseldorf, Krakow, London, Memmingen and Warsaw, the budget airline added. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2s9AP hg/jbh (Reuters, UIFAX)
