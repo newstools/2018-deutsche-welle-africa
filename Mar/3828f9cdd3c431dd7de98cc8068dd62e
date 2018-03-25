@@ -1,0 +1,9 @@
+Roger Federer will be replaced as world number one by Rafael Nadal after a shock 3-6 6-3 7-6 defeat by Australian outsider Thanasi Kokkinakis at the Miami Open. It was the second loss in six days for the Swiss champion, who was beaten by Juan Martin del Potro in the Indian Wells final. Kokkinakis, ranked 175th in the world, used a vicious top-spin forehand to wear down the defending champion and claim an upset victory in front of a stunned near-capacity crowd. Kokkinakis, 21, only got into the Miami qualifiers on a wildcard but he displayed the talent that has long had him earmarked as one to watch. Skipping the clay again Federer, who became the oldest ever world number one when he topped the rankings in February at the age of 36, won't go for a 21st Grand Slam title at the French Open, confirming that he'll sit out the clay-court season altogether — a schedule that brought him success last year. After winning back-to-back tournaments at Indian Wells and Miami in 2017 he took a break, returning in mid-June at the grass court tournament in Stuttgart. He lost his first match there, but went on to win at Halle and Wimbledon. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2ric7 mds (AFP, Reuters)
