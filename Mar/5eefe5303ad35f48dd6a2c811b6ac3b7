@@ -1,0 +1,17 @@
+The individual, a Ukrainian national identified only as Denis K., was detained in the coastal city of Alicante with three accomplices, Spain's Interior Ministry said Monday. According to Europol, the syndicate stole more than €1 billion ($1.24 billion) in a five-year spree by attacking over 100 financial institutions with malicious software. Authorities said almost all of Russia's banks were targeted. Denis K. had allegedly directed the international cybercriminal gang from Spain since 2013. Read more: Greece says hackers hit banks with bitcoin ransom demand Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2rLJi How they stole the money The syndicate sent phishing emails to bank employees with attachments containing software known as "Carbanak" and "Cobalt." Once an email was opened, the software installed itself on the bank's server, allowing the hackers to gain control of bank accounts and automatic teller machines. "With that level of access, the nefarious individuals authorize fraudulent bank transfers, raise the balances of mule accounts or command affected ATMs to spit out the money for them," Europol said. "The Cobalt malware alone allowed criminals to steal up to €10 million per heist," the pan-European police body added. Read more: Cybercrime laws as a weapon against expression Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2d1j6 Global operation The syndicate's earnings were converted into bitcoins at exchange houses in Ukraine and Russia before being transferred to their accounts, Spain's Interior Ministry said. Denis K. reportedly used financial platforms in Gibraltar and the UK to load prepaid cards with bitcoin and spend them in Spain on cars, homes and other goods. Read more: Cybercrime just tip of iceberg in organized criminality, study finds The criminal investigation was led by Spanish police, with assistance from various software companies, as well as law enforcement authorities in the United States, Romania, Belarus and Taiwan. nm/cmk (Reuters, AFP, dpa) Every evening at 1830 UTC, DW's editors send out a selection of the day's hard news and quality feature journalism. You can sign up to receive it directly here.
