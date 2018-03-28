@@ -1,0 +1,9 @@
+German photovoltaic cell maker Solarworld has filed for bankruptcy, the company said Wednesday, citing a drop in revenues due to falling prices in the industry. Competition from China, the world's largest producer of solar panels, has been a major headache for Solarworld. The Bonn-based company noted that EU plans to let protective tariffs against Chinese imports lapse made its position untenable. German demand for renewable energy prompted several entrants into the solar cell industry in the last decade. But falling prices and foreign competition forced several companies into insolvency in recent years, with Solarworld one of the longest-lasting survivors. The company had previously declared bankruptcy in 2017, but was saved by an investment from Qatar. A year ago, the company had about 3,300 employees. Currently there are about 600. Many countries allege that China has been "dumping" the panels on their markets — selling them at artificially low prices and taking a loss in the short term in order to kill competitors in rival markets. In January, US President Donald Trump's administration announced steep import tariffs on solar panels produced outside the country. The measure was part of Trump's "America First" drive that aims to favor US manufacturers over foreign companies. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2co3R sri/aos (dpa, AFP)
