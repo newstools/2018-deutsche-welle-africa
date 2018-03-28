@@ -1,0 +1,9 @@
+Four German nationals were detained after police in southern Germany found a cache of explosives and hazardous chemicals at a homeless shelter in the city of Schweinfurt, authorities said Tuesday. A spokesman for the Bavarian State Criminal Police Office (LKA) said three of the suspects had since been released. A 35-year-old man, who is still in custody, is the alleged owner of the materials. He was expected to appear in court later Tuesday. The LKA said it was now looking into whether the materials were destined to be used in some kind of extremist act. Read more: TATP - a substance from hell? Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/1AsQc Basement stockpile The chemicals were discovered in the basement of the apartment complex on Monday, prompting the evacuation of a number of neighboring buildings. Officials called to the scene then discovered explosives. All in all, investigators recovered 1 kilogram (2.2 pounds) of self-made explosives and over 30 liters of various chemicals. The LKA said they also found triacetone triperoxide (TATP), a highly explosive and unstable substance that was used in the November 2015 Paris terror attacks. Officials destroyed the chemicals and detonated the bombs in a nearby field overnight. Residents were given the all clear to return to their homes early Tuesday. nm/jm (AFP, dpa) Every evening at 1830 UTC, DW editors send out a selection of the day's hard news and quality feature journalism. You can sign up to receive it directly here.
