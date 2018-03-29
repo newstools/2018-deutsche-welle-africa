@@ -1,0 +1,9 @@
+Germany's unemployment rate ticked downwards in March, hitting 5.3 percent in seasonally adjusted terms, according to data released on Thursday by the country's Federal Employment Agency (BA). That means the number of jobless people in Germany fell below 2.5 million in March, representing 19,000 fewer unemployed people from the month before. Compared with the same month a year ago, the jobless number fell by 204,000. Analysts said the figures were buoyed by a generally strong domestic and international economic performance. "Demand for new employees remains at high levels," read the report. The overall number of unemployed currently stands at 2.458 million, BA said. Germany has recorded robust economic expansion in recent months, causing some to raise concerns about an overheating of the economy. The country's gross domestic product (GDP) is projected to grow by at least 2.7 percent this year, which would be the strongest pace since 2011. The low unemployment is also expected to put upward pressure on wages. After a decade of wage restraint on the part of German labor unions, they are now seeking to capitalize on the jobs boom by pushing for salary increases in wage talks with employers. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2hUq6 sri/jbh (dpa, AP)
