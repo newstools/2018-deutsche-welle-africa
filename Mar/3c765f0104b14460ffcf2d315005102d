@@ -1,0 +1,9 @@
+Friday's fourth test against South Africa will be Darren Lehmann's last as Australia coach after announcing his resignation, as the fallout from his side's ball tampering continues to devastate Australian cricket. Hours after banned opening batsman Cameron Bancroft and former skipper Smith had held teary press conferences on Thursday, it was Lehmann's turn to face the media gaze. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2v9zC Read more: Punishment does not fit the crime for Australians Australian PM expresses shock over ball tampering affair The former batsman, 48, was also tearful and said watching his players face up to their errors had forced his decision. "This will be my last Test as head coach of the Australian cricket team," Lehmann told a press conference. "Saying goodbye to the players was the toughest thing I have ever had to do." Lehmann's decision comes as something of a shock after he was cleared of any wrongdoing in the Cricket Australia investigation that banned Smith and Warner for 12 months and Bancroft, who used sandpaper to scuff up the ball and encourage reverse swing, for nine months. Australia head in to the final Test of the four-match series 2-1 down and in disarray, having lost the top three players in their batting order and their coach in a little over 24 hours.
