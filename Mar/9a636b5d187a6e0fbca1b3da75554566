@@ -1,0 +1,9 @@
+Sir Simon Rattle has been named honorary conductor of Germany's National Youth Orchestra (BJO), a position that will allow him to maintain an active connection to the country's music scene after his final appearance as the Berlin Philharmonic's music director on June 20. The British conductor, 63, has regularly worked with the youth orchestra ever since the Berlin Philharmonic became the BJO's official sponsor in 2013, occasionally leading joint appearances of both orchestras. Read more: Berlin Philharmonic puts music over maestros with new chief Kirill Petrenko 'Special musical friendship' Sönke Lentz, the youth orchestra's project director, said Rattle had been named honorary conductor "in recognition of the special musical friendship and inspiration we have experienced with him over the past eight years." He added that the new position would open up "a new perspective for collaboration." Rattle was equally enthused: "What an enormous pleasure to meet this wonderful next generation of colleagues!" Rattle is no stranger to National Youth Orchestra High-profile collaborators The 100 members of the National Youth Orchestra, all between the ages of 14 and 19, meet three times a year to rehearse with high-profile conductors and soloists. Programs are performed on subsequent tours in Germany and abroad. Since 2016, the BJO has been the regular guest orchestra at the Campus Project, an annual collaboration between the Beethovenfest Bonn and DW. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/1FnZC
