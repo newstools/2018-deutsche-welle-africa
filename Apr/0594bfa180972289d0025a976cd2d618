@@ -1,0 +1,9 @@
+Circus camel "Ivan the Great" and his smaller friend found an adventurous way to celebrate the Easter holidays. The two slipped out of their circus enclosure in Bremen and strolled to a nearby McDonald's restaurant. The two vegetarians eschewed the fast food chain's menu, and instead chewed on meadow grass opposite the fast-food outlet. After almost thirty minutes, police brought the two wandering camels back to their enclosure. The camels were unharmed. ap/rc (AFP, dpa) Each evening at 1830 UTC, DW's editors send out a selection of the day's hard news and quality feature journalism. You can sign up to receive it directly here. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2queJ
