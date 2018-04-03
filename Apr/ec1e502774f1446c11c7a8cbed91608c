@@ -1,0 +1,9 @@
+The private company's Falcon 9 rocket fitted with a Dragon capsule blasted off from Cape Canaveral in the southern US state of Florida on Monday at 4:30 p.m. local time (2030 UTC), as part of a mission to resupply the International Space Station (ISS). Read more: Elon Musk and feeling like a kid again The Dragon separated from the Falcon 10 minutes after take-off and is set to dock with the ISS on Wednesday. The US space agency NASA, which contracted the launch, said the spacecraft was carrying more than 2,600 kilograms (5,800 pounds) of supplies and equipment for the ISS. The cargo included materials that ISS astronauts would use to conduct experiments on how human beings and plants behave in space, the agency said. Reusable rockets SpaceX, which is owned by engineering mogul Elon Musk, had previously used part of the Falcon 9 in an August 2017 launch and the Dragon in an April 2016 launch. This was the 14th resupply mission that SpaceX has carried out for NASA under its contract and its second combining recycled Dragon and Falcon parts. Read more: What you need to know about SpaceX's Falcon Heavy launch The Dragon is set to return to earth with more than 1,500 kilograms of research and supplies in May. The company hopes the reusability of its rockets and spacecraft will drastically reduce the costs of space travel. Read more: SpaceX launches classified spy satellite for US government Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2YOIa Each evening at 1830 UTC, DW's editors send out a selection of the day's hard news and quality feature journalism. You can sign up to receive it directly here.
