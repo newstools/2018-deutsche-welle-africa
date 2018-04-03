@@ -1,0 +1,9 @@
+Nearly half of flights across Europe were facing delays on Tuesday after a flight plan glitch hit at the end of busy Easter holiday period. "Today 29,500 flights were expected in the European network. Approximately half of those could have some delay as a result of the system outage," the Eurocontrol agency said in a statement. They added that the root of the problem "has been identified and action is underway to return to normal operations" by the late evening. The agency stressed that the glitch had not posed any safety risks. The delays, which one Eurocontrol official described to French news agency AFP as unprecedented, reduced flight capacity across Europe by ten percent. Major airports like Amsterdam's Schipol warned passengers to check on the status of their flights. Founded in 1960, the European Organization for the Safety of Air Navigation, commonly known as Eurocontrol, has 41 member states and has its headquarters in Brussels. The EU has delegated parts of its Single European Sky regulations to Eurocontrol. This makes it the central organization for the coordination and planning of air traffic control for all of Europe. Travelers in France were hit particularly hard by the incident, as trains were already stopped due to a rail workers' strike called in protest of President Emmanuel Macron's labor policy reforms. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2vP3E es/jm (AFP, dpa) Each evening at 1830 UTC, DW's editors send out a selection of the day's hard news and quality feature journalism. You can sign up to receive it directly here. 
