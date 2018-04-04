@@ -1,0 +1,9 @@
+Unemployment in the 19 countries that use the euro fell to its lowest level in a decade as the region's economy kept benefitting from waning worries over debt problems. EU statistics office Eurostat said Wednesday the rate dropped to 8.5 percent in February from 8.6 percent in the previous month, marking the lowest level since December 2008, shortly after the bankruptcy of US investment bank Lehman Brothers plunged the world into a financial crisis. The number of people out of work fell by 141,000 to below 14 million. Joblessness in the larger European Union stood at 7.1 percent in February, a slight decrease from the 7.2 percent logged in January. The Czech Republic registered the lowest unemployment rate in the EU (2.4 percent), Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2u96X with Germany and Malta both logging 3.5-percent rates. Greece found itself at the other end of the spectrum, with its jobless rate standing at 20.8 percent. ECB inflation target not in sight While unemployment was down, annual inflation in the eurozone jumped to 1.4 percent in March, ending several months of decline, but failing to come near the European Central Bank's own target of close to 2 percent. Eurostat said the uptick was led by food, alcohol and tobacco prices, which increased by 2.2 percent compared with March 2017. Energy prices rose by 2 percent on the year, with smaller increases logged for services and non-energy industrial goods. hg/ap (Reuters, dpa)
