@@ -1,0 +1,9 @@
+A 41-year-old man went on trial in the German city of Freiburg Thursday, accused of rape and serious child sexual abuse. He is one of eight suspected members of an online pedophile network that allegedly abused a 9-year-old boy. Police say the boy — now in state custody — was repeatedly abused for years by a number of perpetrators in and around Freiburg. "This matter is the most serious case of sexual abuse of children ever investigated by Baden-Wuerttemberg state police," police said when they announced the arrests in mid-January. Read more: Can pedophiles learn not to offend? Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/1B4VN Mother allegedly sold son online The other seven defendants are all in custody. They include the 47-year-old mother of the victim, accused of offering her son over the internet and letting men rape him in exchange for payment. The woman and her 39-year-old partner — who has a previous child abuse conviction — are also accused of abusing the child themselves. Their trial is set to begin on June 11. Authorities were made aware of the pedophile ring in September 2017 through an anonymous tip-off. Judge Stefan Bürgelin said the defendant is planning to plead guilty, having confessed to the crime to a court psychiatrist. The prosecutor's office said it was seeking a long prison sentence. A verdict is expected to be announced next week. nm/rt (AFP, dpa) Every evening at 1830 UTC, DW's editors send out a selection of the day's hard news and quality feature journalism. You can sign up to receive it directly here.
