@@ -1,0 +1,9 @@
+A German aid worker was kidnapped in western Niger near the town of Ayorou on Wednesday, according to several reports. An official confirmed to AFP news agency local reports that a worker for the non-governmental organization Help had been kidnapped. "There was a kidnapping of a German national around 30 kilometers (18 miles) from Ayorou as he returned from a visit to the north of the area," Jando Rhichi Algaher told AFP. Read more: UN to expand sanctions blacklist in Mali amid growing violence The official said the aid worker and his colleagues were "intercepted by armed individuals on four motorbikes" while making their return trip. Online news outlet ActuNiger reported that Islamists were believed to be responsible for the kidnapping and that the assailants set fire to vehicles before escaping with the aid worker. France has deployed around 4,000 soldiers to combat Islamist insurgents in the Sahel region on the southern edge of the Sahara desert. dv/aw (AFP, dpa) Each evening at 1830 UTC, DW's editors send out a selection of the day's hard news and quality feature journalism. You can sign up to receive it directly here. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2v2ha
