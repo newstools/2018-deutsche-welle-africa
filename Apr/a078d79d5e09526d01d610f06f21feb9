@@ -1,0 +1,9 @@
+Azerbaijan's Ilham Aliyev,who has led the former Soviet Republic for 15 years, secured his fourth consecutive term on Wednesday. According to exit polls, Aliyev garnered 83 percent of the vote in the snap election that was boycotted by the main opposition parties as fraudulent. "All previous elections in Azerbaijan were falsified and held with blatant violations of the electoral law. These elections will be no exception," said the executive secretary of the opposition Republican Alternative Movement. Opposition lawmakers have also accused Aliyev of calling the elections six months ahead of schedule in order to shorten the campaigning period and hinder attempts at preventing ballot-stuffing. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2vruh Instead of any real competition, Aliyev ran against seven low-profile figures who made no serious attempts at campaigning. Aliyev has been in power since 2003, following the death of his father Heydar Aliyev, a former KGB agent who became increasingly authoritarian over his own decade in power. The younger Aliyev has further cemented the family's grip on control by appointing his wife, Mehriban Aliyeva as first vice president. Aliyev has denied the accusations of corruption and human rights abuses leveled against him, and touted his country's growing economy as proof of his good leadership. es/jm (AFP, AP) Each evening at 1830 UTC, DW's editors send out a selection of the day's hard news and quality feature journalism. You can sign up to receive it directly here.
