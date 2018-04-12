@@ -1,0 +1,9 @@
+At the end of 2017 there were 10.6 million foreigners registered in Germany, according to figures released by the Federal Office of Statistics on Thursday. That's an increase of about 585,000, or 5.8 percent, compared to the previous year. A statistics office spokesman said the current growth is on par with foreign population levels in 2013, before the 2015 refugee crisis that led to hundreds of thousands of newcomers arriving in Germany. The numbers show a significant drop in people arriving from non-European states like Syria, Afghanistan and Iraq. For example, about 61,000 Syrians arrived in Germany last year, compared to 260,000 in 2016. There were around 5,000 people from Afghanistan arriving in 2017, down from 119,000 the previous year. At the same time, immigration from European Union states climbed faster than average. In 2017, there was a 12.5 percent increase in people from eastern EU states such as Poland, Romania and Bulgaria deciding to move to Germany. Their numbers have continued to grow from 919,000 in 2007, when freedom of movement for people from eastern member states was introduced, to 2.6 million at the end of last year. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2QrJL nm/rt (dpa, AFP) Each evening at 1830 UTC, DW's editors send out a selection of the day's hard news and quality feature journalism. You can sign up to receive it directly here.
