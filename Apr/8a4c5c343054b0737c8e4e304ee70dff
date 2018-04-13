@@ -1,0 +1,9 @@
+The Frankfurt Music Fair is Europe's biggest music and entertainment fair, and has meanwhile even branched out to China and Russia. The 2018 edition sees 1,803 exhibitors from 56 countries present their products from April 11 to 14. The program includes concerts, presentations, conferences, award ceremonies and exhibitions. Read more: 5 things you probably didn't know could make music Visitors roaming the fair grounds at the Frankfurt Messe can delight in the abundance of instruments as music drifts in the air from piano concerts at the salon where traditional European piano makers present their keyboard instruments; or from celebrity drummers and guitarists holding fort at the various drum and guitar camp stages. Events and performances have been taking on greater importance at the trade show in recent years, according to fair director Michael Biwer. While the show is focused on exhibitors and their products, the actual music adds "an emotional experience" to proceedings, he said. Read more: What needs to change in guitars to make them eco-friendly Click on the picture gallery above to explore that latest musical trends and innovations on show in Frankfurt. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2vwlx
