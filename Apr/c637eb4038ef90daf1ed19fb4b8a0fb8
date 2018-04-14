@@ -1,0 +1,9 @@
+Eintracht Frankfurt's sporting director Fredi Bobic has described Bayern Munich's pursuit of Niko Kovac as "selfish, aggravating, unprofessional and lacking respect". News of Kovac's appointment was leaked to the German press on Thursday evening and was made official by the Bavarian club on Friday lunchtime, with Frankfurt apparently unaware of the appointment until it was made public. Read more: From Berlin to Bayern, Niko Kovac gets his shot at the big time "Bayern were selfish," Bobic told a press conference on Friday. "They only thought about what served them best but did not regard what would be good for Frankfurt. We play against Leverkusen next, then Schalke in the cup [semifinal]. We need serenity." Kovac revealed that he was only contacted about the vacancy at the Allianz Arena on Thursday, with Bobic seething about the manner in which they will lose a coach who saved them from relegation after taking over in March 2016, led the team to the German Cup the following season and has turned them into top four challengers. "It definitely surprised us in a phase in which we have a lot of important games," Bobic added. "It's unfortunate timing. The fact that information surfaced yesterday not from Frankfurt but from Munich is aggravating, unprofessional and is lacking respect." Kovac has signed a three-year deal in Munich starting on July 1st, with his Frankfurt side traveling to Munich in the Bundesliga on April 28. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2w20m
