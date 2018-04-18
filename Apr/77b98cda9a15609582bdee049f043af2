@@ -1,0 +1,17 @@
+Slovakia's controversial national police chief, Tibor Gaspar, will step down at the end of May, Prime Minister Peter Pellegrini said on Tuesday. "I see he was the target of enormous political pressure, even attacks on all the police force," said new Prime Minister Peter Pellegrini. "We agreed that in order to calm the tensions and free the police from media pressure, he will resign by the end of May." Gaspar's decision is the latest high-level resignation in response to public outcry over the murder of Slovak investigative journalist Jan Kuciak and his fiancee in February. Read more: Slovakia: Massive street protests call for police to step down Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2uG6V Street protests The death of Kuciak, who had been investigating links between Slovak politicians and the Italian mafia, sparked country-wide protests against the government of then-prime minister Robert Fico. The fallout led the left-wing prime minister and the rest of his Cabinet to step down in March. On Monday, the man who succeeded as interior minister in March, Tomas Drucker, also resigned. Despite the resignations, police chief Gaspar had refused to step down in response to fears he would not be able to oversee a fair probe into Kuciak's murder. Gaspar is related to the owner of Slovakia's largest private security firm and Kuciak had reported on the firm's dealings with the government. Read more: New Slovak government wins confidence vote amid ongoing protests Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2uD4z Pellegrini: No impact Prime Minister Pellegrini downplayed expectations that Gaspar's exit would influence the murder investigation. "Gaspar's resignation will not have any impact on the investigation of [Kuciak's] murder as the police chief has not had any influence on the investigation so far," he said. But Slovak President Andrej Kiska, who is a longtime rival of former prime minister Fico, welcomed the police chief's decision and called on the government to "strengthen the guarantees of an independent and impartial investigation." Police have not yet charged anyone for the murders, which the leading prosecutor has said was likely a contract killing. Read more: Slovakia: Has the EU looked the other way for too long? amp/aw (AFP, Reuters)
