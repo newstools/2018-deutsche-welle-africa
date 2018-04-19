@@ -1,0 +1,9 @@
+A fiery last four clash between fierce rivals Fenerbahce and Besiktas descended in to chaos just before the hour mark, after Gunes was struck by an unidentified object thrown from the crowd. Turkish television pictures showed a baffled Gunes clutching his head in pain before falling to the turf after being hit by the projectile. He was then taken by his own medical staff in to the dressing rooms where he received five stitches to a head wound. Read more: Turkey bans footballer Deniz Naki Turkey fires 94 football officials At the time of the abandonment at Fenerbahce's stadium on the Asian side of Istanbul, the score was 0-0 and the tie was 2-2 on aggregate. The match is likely to be replayed, with the Turkish Football Federation set to make a decision in the coming days. The incident followed a series of vocal disagreements between Fenerbahce fans and players on the Besiktas bench sparked by the dismissal of Besiktas' Portuguese defender Pepe. That came after a first half delay of five minutes when objects from the stands rained down on the players. Istanbul derbies are often tempestuous affairs and the clash between Besiktas and Fenerbahce in September was marked by five red cards and 12 yellows. The incident adds to tensions as the Turkish league season heads to its climax, with all four big Istanbul sides - Besiktas, Fenerbahce, Galatasaray and Basaksehir - all in contention for the title. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2tDGz mp (Reuters, AFP)
