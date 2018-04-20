@@ -1,0 +1,9 @@
+A speed camera in western Switzerland has snapped a duck twice within a period of three days, Swiss police said on Friday. The camera in Köniz, a municipality southwest of the city of Bern, picked up the first offense as a duck shot through the air 22 kilometers an hour (13.5 miles per hour) over the speed limit for vehicles. "The duck was traveling in a low-altitude flight at 52 kilometers per hour in a 30 kilometer zone," local police said in a statement accompanying a picture of the airborne speed-fiend. Read more: Cologne to refund 365,000 drivers fined incorrectly Three days later, the same camera snapped a duck flying at a similar speed. But police said they could not determine whether it was a repeat-offender or whether they were dealing with a flock of felons. The duck or ducks were lucky to escape a hefty bill. Exceeding the speed limit by 21 kilometers per hour in a built-up area in Switzerland can result in an official police complaint, a fine and a minimum one-month driving ban. The alpine country calculates fines based on the offender's wealth. In 2010, it billed a Swiss driver some $290,000 for clocking 137 kilometers per hour in a 80 kilometer zone. Read more: Mighty ducks fight pests in South Africa Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2Qz1d
