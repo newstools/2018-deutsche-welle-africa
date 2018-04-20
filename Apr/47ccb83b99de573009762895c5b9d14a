@@ -1,0 +1,9 @@
+Deutsche Bank confirmed on Friday it had transferred €28 billion ($34 billion) by mistake in a routine transaction made before Easter. Luckily, the bank sent the money to another Deutsche Bank account at the Eurex derivatives exchange and not to a client directly, enabling it to cancel the transfer a few minutes after it was made. A much smaller, unspecified amount was meant to be sent to a client instead of the erroneously high figure, which is actually higher than the Deutsche's market capitalization of €24 billion. Everything under control? Although no damage was incurred in the process, the incident raised questions about risk management and control procedures within the bank, which former CEO John Cryan was meant to have greatly improved after his arrival in 2016. In a sign of Deutsche Bank's ongoing internal problems, the lender on Wednesday announced the departure of its IT and infrastructure chief Kim Hammonds. The latter had reportedly called Deutsche "the most dysfunctional company" she had ever worked for. The bank has yet to return to profitability, while the share price has slumped more than 50 percent in the past two years. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2vkHz hg/jbh (AFP, dpa)
