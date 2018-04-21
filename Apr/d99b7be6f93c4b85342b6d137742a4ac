@@ -1,0 +1,9 @@
+The German Federal Government must reimburse a high-ranking German soldier and his family for the cost of a luxury transatlantic cruise, a court ruled on Friday. A Bundeswehr military attache, who worked in Germany's Washington embassy, chose to travel on the Queen Mary 2 from New York to Hamburg with his family when he was ordered to relocate to Germany in 2013. Read more: World's largest cruise ship ready for 7 seas The 345-meter (1,132-feet) ocean liner features several bars and restaurants, an art gallery, a spa club, a casino, a planetarium, five swimming pools, a theatre and more He then sued the German government when it only reimbursed him for the equivalent cost of economy flights. The cruise cost the soldier about €3,500 ($4,300), but he was paid only half of that. The State Higher Administrative Court (OVG) in Münster ruled that he be paid the balance for the trip. It argued that the soldier was entitled relocation fees up to the cost of business class flights for his family. A spokeswoman for the court told the Deutsche Presse-Agentur news agency the ship's journey actually saved the taxpayer money. The costs for business flights would have cost the whole family between €5,000 and €6,000. The court ruling was based on legal regulations for relocation of Bundeswehr soldiers for flights exceeding four hours. The ruling is not yet final. Read more: Tarantula caused flight delay, airline claims in German court Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/18XAv
