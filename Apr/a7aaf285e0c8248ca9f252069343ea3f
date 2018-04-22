@@ -1,0 +1,9 @@
+The number of crimes reported in Germany fell by almost 10 percent in 2017, according to police statistics published by the Welt am Sonntag newspaper. It is reportedly the sharpest year-on-year drop in over 25 years. Read more: German police launch crackdown on human trafficking, organized crime Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2aul9 Breakdown of crimes The report found: Read more: German states look to reintegration to reduce migrant crime Decrease in migrants Chairman of the police union Oliver Malchow told Welt am Sonntag to avoid "premature conclusions regarding the security situation." He said a large part of the drop was related to the fact that fewer asylum-seekers have come to Germany. But he conceded that "since the report started in 1993, we have not recorded such a large decline." Read more: Germans fear the rise of 'lawless' neighborhoods, poll shows Public opinion: The drop in crime numbers follows a poll that found about half of Germans believe there are places in the country so lawless that even police will not venture into them. Migrants are often blamed for increased crime rates, despite the Federal Criminal Police's reporting that foreigners are less likely than native-born Germans to commit every category of crime. Official release: Federal Interior Minister Horst Seehofer will present the numbers at the Conference of Interior Ministers on May 8. Read more: Amid controversy, Germany's police struggle to find recruits aw/jlw (dpa, AFP, Reuters)
