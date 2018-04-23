@@ -1,0 +1,9 @@
+Alitalia went into government-controlled administration last year and received a public loan of €900 million ($1.1 billion) to keep the carrier afloat after staff in 2017 rejected a last-ditch cost-cutting plan. "The Commission has the duty to make sure that loans given to companies by member states are in line with EU rules on state aid," EU Competition Commissioner Margrethe Vestager said in a statement, noting that Brussels had received several complaints from a number of competing airlines. Vestager indicated the EU executive was acting on suspicion that the granted loan may be used longer than the 6 month allowed under EU rules. Italian Industry Minister Carlo Calenda said such fears were unfounded, insisting that Alitalia had barely used the state loan so far. Waiting for a new government As part of efforts to endure the carrier's future, Rome has been looking for buyers and has reportedly received three bids. Lufthansa and easyJet have confirmed their interest, while Italian media said Hungary-based Wizz Air had joined the bidding process. Italy is in political limbo as a conservative bloc and the anti-establishment Five Star Movement are fighting over a coalition government after inconclusive elections on March 4. The deadline for the sale of Alitalia was originally set for the end of this month, but the government is set to issue a decree in the coming weeks pushing back that deadline by around half a year. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2m269 hg/aos (dpa, AFP)
