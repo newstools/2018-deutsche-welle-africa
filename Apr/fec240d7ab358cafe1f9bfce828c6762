@@ -1,0 +1,9 @@
+Police evacuated the historic fortified island of Mont Saint-Michel in Normandy on Sunday after a man threatened he would kill police at the popular tourist destination. According to the Ouest-France newspaper, the individual escaped before authorities arrived. "An individual has entered Mont Saint-Michel. He made fairly specific threats against the police in front of a coffee shop," the gendarmerie told broadcaster France Info. A local journalist posted unconfirmed images on Twitter of tourists being evacuated and armed police at the abbey. Police searched houses on the island in the northern region of Normandy but were unable to find the individual who was heard uttering threats. Local officials said the site was "free of risk" and due to reopen. "All houses have been checked, all public and private venues were inspected by the police," police district prefect Jean-Marc Sabathe told the BFM news channel. "I'm almost certain that he's gone." Surrounded by water at high tide, Mont Saint-Michel attracts more than a million visitors a year to its abbey and other sites, making it the biggest tourist attraction in France outside Paris. Read more: France marks three years since Charlie Hebdo attack Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2VGeU
