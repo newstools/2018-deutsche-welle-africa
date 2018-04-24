@@ -1,0 +1,9 @@
+Turkish President Recep Tayyip Erdogan said on Tuesday he was planning to hold an election rally in a European city in May to reach out to Europe's Turkish communities ahead of snap parliamentary and presidential elections in Turkey. Erdogan's plans could put Turkey on a collision course with the European Union, several of whose members have banned Turkish politicians from campaigning on their soil. Read more: Germany and Turkey in 2017: a rollercoaster relationship 'All preparations are complete' In a speech to members of his ruling AK party, Erdogan said: Read more: Turkey-EU relations: Which countries are for or against Turkish accession? ap/rt (Reuters, dpa) Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2vj0a
