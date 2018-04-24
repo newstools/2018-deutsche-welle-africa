@@ -1,0 +1,9 @@
+Confidence among business leaders in Germany dropped further in April, the closely watched monthly index from the Munich-based ifo think tank said Tuesday. Executives responded to greater risks and uncertainties surrounding the global economic outlook. The ifo barometer for April shed 1.2 points for a reading of 102.1 points, marking the fifth consecutive decline under a new calculation method, taking 2015 as the base year with a score of 100, and more importantly, including the service sector in the survey for the first time. As a result of the new method underlying the institute's calculations, the manufacturing sector saw its weight in the index reduced sharply. Dented optimism "High spirits among German business leaders have evaporated," ifo President Clemens Fuest said in a statement. "The German economy is slowing down." Jörg Zeuner, economist at Germany's KfW bank, was quick to point out that a slowing economy did not mean it would come to a standstill, saying that growth is expected to be solid this year and next. "Central risks such as the global renaissance of protectionisms and the political stalemate in Italy continue to weigh on sentiment," he admitted. But he added that "reliable domestic drivers," including higher employment and increased government spending "should keep Europe's largest economy expanding strongly." Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2uHZM hg/aos (AFP, AP, Reuters)
