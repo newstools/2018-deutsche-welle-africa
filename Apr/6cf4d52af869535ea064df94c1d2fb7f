@@ -1,0 +1,9 @@
+Police detained Vincent Bollore, one of France's most powerful businessmen, in the Paris suburb of Nanterre on Tuesday as part of an investigation into how his group attained rights to operate ports in West Africa. The 66-year-old, who is head of the Bollore Group, was questioned along with other employees of the company. French newspaper Le Monde said the investigation focused on port deals in the Togolese capital, Lome, and Conakry in Guinea. Read more: Togo: Opposition wants to end President Gnassingbe’s dynasty The multinational group is alleged to have used its communication and marketing subsidiary Havas to support election campaigns of Guinean President Alpha Conde and Togolese President Faure Gnassingbe. In exchange, the subsidiary known as Bollore Africa Logistics is alleged to have won contracts to operate shipping terminals after the leaders were elected. Read more: Africa in 2018: The old generation remains at the helm Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2w6UR Bollore said in a statement that the investigation related to the billing of its communication servicesin both countries between 2009 and 2010. The business, which has interests in construction, as well as logistics and media, said it "formally denied" any wrongdoing. A Guinean government spokesman told the Reuters news agency that the government was "not concerned by these allegations, which make no sense." The news that Bollore had been arrested caused group stocks to fall by more than four percent in mid-morning Paris trading. rc/rt (AFP, AP, Reuters)
