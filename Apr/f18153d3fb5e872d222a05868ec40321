@@ -1,0 +1,17 @@
+Climate change is contributing to an increase in extreme weather around the world. Mega-storms, heavy rainfall, flooding, cold snaps, heat waves and drought are all impacting ever more of us. But what is extreme weather anyway, and which regions are most affected? An expert at the World Meteorological Organization explains. Read the story: Extreme weather: 'Africa is most vulnerable' So is extreme weather really increasing, or does it just seem that way? The cutting-edge field of weather attribution is answering that question. Read the story: Climate change and extreme weather: Science is proving the link Extreme weather events can leave behind deep scars. From devastating bushfire as a result of drought in Australia to severe flooding in Germany, how have communities coped? Read the story: In the eye of the firestorm: Surviving Australia's most extreme bushfire Read the story: Extreme weather: A Bavarian village fights the floods Such events can also cause a real shift in behavior, as communities seek to adapt to changing conditions and mitigate the factors causing extreme weather. Watch the video to see how drought and water shortages in Cape Town are changing people's relationship with water, and listen to the audio to see how Puerto Rico is managing in the wake of Hurricane Maria. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2w0wx Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2vuym
