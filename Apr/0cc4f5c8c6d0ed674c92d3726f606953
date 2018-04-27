@@ -1,0 +1,9 @@
+Two German Islamic State (IS) wives returned to Germany Thursday, on board a Lufthansa flight to Frankfurt. They are said to have been in a northern Iraqi jail in Kurdish Erbil before returning. German federal prosecutors claim the women are radical Islamists, but their request for an arrest warrant was denied by Germany's Federal Supreme Court (BGH). Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2oe6X Veiled threat Read more: Germany's domestic intelligence agency warns of IS sympathizers What do we know about the women? The women, one of Turkish-German descent, the other a German convert, were allowed free entry into the country with their three children. On high alert: Germany, along with other European countries, has greeted the fall of Islamic State but is also wary of the threat presented by the return of nationals who joined the radical group. Not alone: German intelligence services estimate that more than 960 Islamists traveled from Germany to join IS in Syria and Iraq and that roughly one-third have already returned. js/rt (AFP, dpa)
