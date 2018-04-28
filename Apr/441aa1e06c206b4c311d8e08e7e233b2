@@ -1,0 +1,9 @@
+Whole Foods Market, the high-end grocery store chain, is facing a backlash on social media after the opening of an Asian restaurant named Yellow Fever in its newly opened store in California. Even though the grocer does not own the restaurant, it's been criticized for partnering with a restaurant chain whose name many have denounced as offensive and racist. Whole Foods shoppers took to Twitter to show their disapproval. 'Tongue-in-cheek' Yellow Fever is a chain of restaurants owned by Kelly Kim, a Korean-American woman. She told the website Nextshark.com last year that the idea behind her restaurant's outlandish name was to shock people. "When we finally came up with the concept, all the names we thought of just plain sucked. Buzzwords like 'traditional,' 'bamboo,' 'lotus,' and 'golden' weren't memorable," Kim told the website. "One night, we just said 'Yellow Fever!' and it worked. It's tongue-in-cheek, kind of shocking, and it's not exclusive — you can fit all Asian cultures under one roof with a name like this. We just decided to go for it," she said. Each evening at 1830 UTC, DW's editors send out a selection of the day's hard news and quality feature journalism. You can sign up to receive it directly here. Send  Facebook   Twitter   Google+   Whatsapp   
+$(document).ready(function () {
+if (typeof WURFL === 'object') {
+if ((WURFL.is_mobile && WURFL.complete_device_name.indexOf('Apple') !== -1) || (WURFL.is_mobile && navigator.userAgent.indexOf('Android') !== -1)) {
+$('.share_whatsapp').show();
+}
+}
+});
+  Tumblr   linkedin   stumble   Digg   reddit   Newsvine Permalink http://p.dw.com/p/2njmQ
